@@ -1,0 +1,754 @@
+﻿/* PRIMARY LAYOUT ELEMENTS   
+-----------------------------------------------------------------------------*/
+html {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    min-height: 100%;
+    border: none;
+    font-family: BentonSans;
+    font-size: 16px;
+}
+
+body
+{
+    margin: 0 0 0px; /* bottom = footer height */
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#ab-body
+{
+    padding-top:20px;
+}
+
+#ab-footer
+{
+    /*position: absolute;*/
+    left: 0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    border-top:2px solid #bf0000;
+    padding:10px 0px;
+}
+
+/* Bootstrap overrides:
+-----------------------------------------------------------------------------*/
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.m-x-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+.m-a-0 {
+  margin: 0 0 !important;
+}
+
+.m-t-0 {
+  margin-top: 0 !important;
+}
+
+.m-r-0 {
+  margin-right: 0 !important;
+}
+
+.m-b-0 {
+  margin-bottom: 0 !important;
+}
+
+.m-l-0 {
+  margin-left: 0 !important;
+}
+
+.m-x-0 {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+.m-y-0 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.m-a-1 {
+  margin: 1rem 1rem !important;
+}
+
+.m-t-1 {
+  margin-top: 1rem !important;
+}
+
+.m-r-1 {
+  margin-right: 1rem !important;
+}
+
+.m-b-1 {
+  margin-bottom: 1rem !important;
+}
+
+.m-l-1 {
+  margin-left: 1rem !important;
+}
+
+.m-x-1 {
+  margin-right: 1rem !important;
+  margin-left: 1rem !important;
+}
+
+.m-y-1 {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.m-a-2 {
+  margin: 1.5rem 1.5rem !important;
+}
+
+.m-t-2 {
+  margin-top: 1.5rem !important;
+}
+
+.m-r-2 {
+  margin-right: 1.5rem !important;
+}
+
+.m-b-2 {
+  margin-bottom: 1.5rem !important;
+}
+
+.m-l-2 {
+  margin-left: 1.5rem !important;
+}
+
+.m-x-2 {
+  margin-right: 1.5rem !important;
+  margin-left: 1.5rem !important;
+}
+
+.m-y-2 {
+  margin-top: 1.5rem !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.p-a-0 {
+  padding: 0 0 !important;
+}
+
+.p-t-0 {
+  padding-top: 0 !important;
+}
+
+.p-r-0 {
+  padding-right: 0 !important;
+}
+
+.p-b-0 {
+  padding-bottom: 0 !important;
+}
+
+.p-l-0 {
+  padding-left: 0 !important;
+}
+
+.p-x-0 {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+.p-y-0 {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.p-a-1 {
+  padding: 1rem 1rem !important;
+}
+
+.p-t-1 {
+  padding-top: 1rem !important;
+}
+
+.p-r-1 {
+  padding-right: 1rem !important;
+}
+
+.p-b-1 {
+  padding-bottom: 1rem !important;
+}
+
+.p-l-1 {
+  padding-left: 1rem !important;
+}
+
+.p-x-1 {
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+}
+
+.p-y-1 {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.p-a-2 {
+  padding: 1.5rem 1.5rem !important;
+}
+
+.p-t-2 {
+  padding-top: 1.5rem !important;
+}
+
+.p-r-2 {
+  padding-right: 1.5rem !important;
+}
+
+.p-b-2 {
+  padding-bottom: 1.5rem !important;
+}
+
+.p-l-2 {
+  padding-left: 1.5rem !important;
+}
+
+.p-x-2 {
+  padding-right: 1.5rem !important;
+  padding-left: 1.5rem !important;
+}
+
+.p-y-2 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+.btn-primary-outline {
+    border-color: #bf0000;
+    color:#bf0000;
+    background-color: transparent;
+    background-image: none;
+}
+.btn-primary-outline:hover {
+    color: #fff;
+    background-color: #bf0000;
+    border-color: #bf0000;
+}
+
+.btn-default {
+    color: #292b2c;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
+    .btn-default:hover {
+        color: #292b2c;
+        background-color: #e6e6e6;
+        border-color: #adadad;
+    }
+
+    .btn-default:focus,
+    .btn-default.focus {
+        -webkit-box-shadow: 0 0 0 2px rgba(204, 204, 204, 0.5);
+        box-shadow: 0 0 0 2px rgba(204, 204, 204, 0.5);
+    }
+
+    .btn-default.disabled,
+    .btn-default:disabled {
+        background-color: #fff;
+        border-color: #ccc;
+    }
+
+    .btn-default:active,
+    .btn-default.active,
+    .show > .btn-default.dropdown-toggle {
+        color: #292b2c;
+        background-color: #e6e6e6;
+        background-image: none;
+        border-color: #adadad;
+    }
+
+/*@media all and (min-width: 1500px)
+{
+    #abc .col-xl-3 {
+        width: 25%;
+    }
+
+    #abc .col-xl-4 {
+        width: 33.3333333%;
+    }
+
+    #abc .col-xl-6 {
+        width: 50%;
+    }
+
+    #abc .col-xl-9 {
+        width:75%;
+    }
+}*/
+
+/* DAG Banner
+-----------------------------------------------------------------------------*/
+.ab-banner
+{
+    width:100%;
+    padding: 8px 0 7px 0;
+    border-bottom: 2px solid #ce1125;
+    height:40px;
+    overflow:hidden;
+    font-family: "Benton Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.eab .ab-banner
+{
+    border-bottom: 2px solid #0065bd;
+}
+.banner-logo
+{
+    float:left;
+}
+.banner-logo a
+{
+    width:33px;
+    height:25px;
+    background-size: 100%;                      /* <------ */
+    background-repeat: no-repeat;
+    background-image: url(/2011_I_DAG_Util/Content/abcLogo_ux.png);
+    display: block;
+    overflow: hidden;
+}
+@media print
+{
+    .banner-logo a {
+        -webkit-print-color-adjust:exact;
+    }
+}
+.eab .banner-logo a
+{
+    width:25px;
+    height:25px;
+    background-image: url(/2011_I_DAG_Util/Content/eabLogo_ux.png);
+}
+.banner-links {
+    font-family: "BentonSansBold",Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    /*float: left;*/
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-left: 10px;
+    margin-left: 6px;
+    border-left: 1px solid #ccc;
+    line-height: 25px;
+    display: inline-block;
+}
+.ab-banner a
+{
+    color: #193A49;
+}
+.ab-banner a:hover
+{
+    color: #CE1126;
+    text-decoration:none;
+}
+.banner-program {
+    display:none;
+}
+.banner-links .banner-tool {
+    font-family: "BentonSans",Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-transform: none;
+    display: inline;
+    color: inherit;
+    margin-left: 6px;
+}
+.banner-tag-wrapper {
+    float: left;
+    padding:0px 5px;
+} 
+.banner-tag {
+    background-color: #FFDB6E;
+    color: #333F48;
+    text-align: center;
+    white-space: nowrap;
+    border-radius: 4px;
+    padding: 3px 10px;
+    font-size: 75%;
+    font-weight: bold;
+}
+.banner-navigator
+{
+    float:right;
+}
+.banner-navigator .dropdown-toggle::after {
+    display: none;
+}
+
+@media all and (min-width: 768px)
+{
+    .banner-program {
+        display:inline;
+    }
+    .banner-navigator
+    {
+        height:25px;
+        display:block;
+    }
+    .eab .banner-navigator
+    {
+        display:none;
+    }
+}
+
+/* Smart Table
+-----------------------------------------------------------------------------*/
+.table[st-table] {
+    overflow: auto;
+    overflow-y: hidden;
+    overflow-x: auto;
+    display: block;
+}
+
+.table[st-table] th[st-sort] {
+    cursor:pointer;
+}
+
+.st-sort-ascent:after{
+    content: '\25B2';
+}
+
+.st-sort-descent:after{
+    content: '\25BC';
+}
+
+.select-page {
+  width: 50px;
+  text-align: center;
+}
+.pagination li a input {
+  padding: 0;
+  margin: -5px 0;
+}
+
+@media all and (min-width: 768px)
+{
+    .table[st-table] {
+        display: table;
+    }
+}
+
+/* Misc.
+-----------------------------------------------------------------------------*/
+.ab-desc
+{
+	background-color: #f0f0f0;
+	border: 1px solid #888;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+::selection
+{
+	color:#fff;
+	background-color:#ce1125;
+	text-shadow: none;
+}
+
+::-moz-selection
+{
+	color:#fff;
+	background-color:#ce1125;
+	text-shadow: none;
+}
+
+a:hover {
+    cursor:pointer;
+}
+
+/* ab-spinner */
+.ab-spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    min-height: inherit;
+}
+
+/* Spin animation for .ab-spinner::after */
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(359deg);
+    }
+}
+
+/*
+The loading throbber is a single spinning element with three  
+visible borders and a border-radius of 50%.  
+Instead of a border we could also use a font-icon or any  
+image using the content attribute.  
+*/
+.ab-spinner::after {
+    content: "";
+    /*position: absolute;
+    top: 2rem;
+    left: calc(50% - 12px);*/
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(38, 129, 255) rgb(198, 215, 239) rgb(198, 215, 239);
+    border-radius: 50%;
+    width: 1.7rem;
+    height: 1.7rem;
+    animation: 0.7s linear 0s normal none infinite running spin;
+    filter: drop-shadow(0 0 2 rgba(0, 0, 0, 0.33));
+}
+
+/******************************************************************************
+Tool-specific style
+******************************************************************************/
+
+.btn {
+    cursor: pointer;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.intro-text {
+    font-size: 14px;
+    font-family: Arial;
+}
+
+.actionsContent h2 {
+    color: #aaa;
+    background-color: transparent;
+    font-size: 14px;
+}
+
+.actionsContent a {
+    background-color: transparent;
+    float: left;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 10px;
+}
+
+    .actionsContent a:hover {
+        color: #0b965b
+    }
+
+#legend {
+    top: 0;
+    left: 0;
+}
+
+.panel-title, .panel-heading {
+    font-size: 11px;
+}
+
+#search-prov {
+    position: absolute;
+    display: flex;
+    top: 0;
+    justify-content: center;
+    width: 100%;
+}
+
+#search-prov-ddl {
+    min-width: 350px;
+}
+
+#search-prov .selectize-input {
+    min-width: 350px;
+    border-radius: 0;
+}
+
+.slideActionsButton {
+    font-family: Arial;
+    font-size: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 20000;
+    border: 2px solid #555555;
+    border-radius: 30px;
+    box-shadow: 1px 1px 3px #555;
+    background-size: 30px 30px;
+    background-color: #ffffff;
+}
+
+#actionsWrapper {
+    display: none;
+    background-color: #46616d;
+    width: 300px;
+    z-index: 200;
+    height: 35px;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-bottom: 0px;
+    top: 13px;
+    position: absolute;
+}
+
+#actionsSeperator {
+    float: left;
+    padding: 4px;
+    font-size: large;
+    color: #ffffff;
+}
+
+#map_canvas {
+    width: 100%;
+    z-index: 1;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+
+.slideMarkerInfoButton {
+    background-color: #BF0000;
+    color: #fff;
+    font-family: Arial;
+    font-size: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    width: 141px;
+    height: 48px;
+    position: absolute;
+    right: 0;
+    z-index: 4999;
+}
+
+@media all and (min-width: 768px) {
+    #lnk-compare {
+        padding-left: 1.5rem !important;
+    }
+}
+
+#info {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 200;
+    font-size: 11px;
+}
+
+#infoBoxContent {
+    background-color: #ffffff;
+    width: auto;
+    z-index: 200;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 10px;
+    font-size: 12px;
+    /*top:47px;*/
+}
+
+#infoBoxWrapper {
+    background: none repeat scroll 0 0 #ffffff;
+    width: auto;
+    z-index: 200;
+    position: relative;
+    line-height: 1.7;
+    font-size: 12px;
+}
+
+.slideLegend .innerLegend, .slideProv .innerProv, .slideActions .innerActions {
+    /*position:absolute;*/
+    right: -500px;
+    overflow: hidden;
+    bottom: 0;
+}
+
+
+.slideLegendButton {
+    background-color: #BF0000;
+    color: #fff;
+    font-family: Arial;
+    font-size: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    width: 141px;
+    height: 48px;
+    position: absolute;
+    left: 0;
+    z-index: 4999;
+    top: 0px;
+    display: inline-block;
+}
+
+.selectizeComp {
+    background-color: #BF0000;
+    color: #fff;
+    font-family: Arial;
+    font-size: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    width: 141px;
+    height: 48px;
+    position: absolute;
+    z-index: 4999;
+    top: 0px;
+}
+
+.legend-panel {
+    background: none repeat scroll 0 0 #ffffff;
+    height: auto;
+    z-index: 200;
+    position: absolute;
+    font-size: 12px;
+    margin-top: 0px;
+    border: 2px solid #e4e4e4;
+    top: 47px;
+    min-width: 200px;
+}
+
+#legendImage {
+    margin-bottom: 5px;
+}
+
+#legendHeader {
+    border-bottom: 1px solid #000000;
+}
+
+#mapIntroText {
+    width: 80%;
+}
+
+#searchProvider {
+    position: absolute;
+}
+
+/*Chart Modal*/
+#chart-modal .modal-body {
+    min-height: 400px;
+}
+
+.chart-modal-chart {
+    height:400px;
+}

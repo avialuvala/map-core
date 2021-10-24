@@ -1,0 +1,185 @@
+{
+  "MapId": 100,
+  "NavId": 100,
+  "DisplayName": "Starbucks Locations and Population and Median Income By Zip its serving",
+  "ShortName": "StarBucks",
+  "MainAttributeId": 7,
+  "ShowBanner": false,
+  "DefaultFilterId": "1",
+  "HasFaq": false,
+  "IntroText": "This map is to analyze starbucks location strategy by looking at the size of the popluation its targeting.",
+  "MarkerPriorityId": 0,
+  "ShowMapClustering": true,
+  "ShowRelatedTools": true,
+  "MapType": 1,
+  "IdealRowIdLength": 6,
+  "RowIdColName": "Id",
+  "RelatedResources": [
+    {
+      "Ix": 0,
+      "Title": "AGG Data",
+      "Url": "https://www.aggdata.com/",
+      "Desc": null
+    },
+    {
+      "Ix": 1,
+      "Title": "Census",
+      "Url": "https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html",
+      "Desc": null
+    }
+  ],
+  "InfoBox": {
+    "Tabs": [
+      {
+        "Id": 0,
+        "Name": "Store ID",
+        "Attributes": [
+          {
+            "Id": 1,
+            "ColName": "Id",
+            "Name": "Store ID",
+            "Format": "",
+            "Desc": null,
+            "HasChart": false,
+            "LessThan11Check": false
+          },
+          {
+            "Id": 2,
+            "ColName": "Store_Name",
+            "Name": "Store Name",
+            "Format": "",
+            "Desc": null,
+            "HasChart": false,
+            "LessThan11Check": false
+          },
+          {
+            "Id": 3,
+            "ColName": "city",
+            "Name": "City",
+            "Format": "",
+            "Desc": null,
+            "HasChart": false,
+            "LessThan11Check": false
+          },
+          {
+            "Id": 4,
+            "ColName": "state",
+            "Name": "State",
+            "Format": "",
+            "Desc": null,
+            "HasChart": false,
+            "LessThan11Check": false
+          },
+          {
+            "Id": 5,
+            "ColName": "zip",
+            "Name": "Zip",
+            "Format": "",
+            "Desc": null,
+            "HasChart": false,
+            "LessThan11Check": false
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Name": "Population By Zip",
+        "Attributes": [
+          {
+            "Id": 6,
+            "ColName": "Population",
+            "Name": "Population",
+            "Format": 0,
+            "Desc": null,
+            "HasChart": false,
+            "LessThan11Check": false
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "Name": "Overall Star Rating",
+        "Attributes": [
+          {
+            "Id": 11,
+            "ColName": "Median_Income",
+            "Name": "Median Income",
+            "Format": 0,
+            "Desc": null,
+            "HasChart": false,
+            "LessThan11Check": false
+          }
+        ]
+      }
+    ]
+  },
+  "Legend": {
+    "Header": "Median Income",
+    "Footer": "",
+    "Ranges": [
+      {
+        "Ix": 0,
+        "LowerLimit": 0,
+        "UpperLimit": 32048,
+        "IconUrl": "/img/red_v1.png",
+        "DisplayText": "1"
+      },
+      {
+        "Ix": 1,
+        "LowerLimit": 32049,
+        "UpperLimit": 53413,
+        "IconUrl": "/img/orange_v1.png",
+        "DisplayText": "2"
+      },
+      {
+        "Ix": 2,
+        "LowerLimit": 53414,
+        "UpperLimit": 106827,
+        "IconUrl": "/img/yellow_v1.png",
+        "DisplayText": "3"
+      },
+      {
+        "Ix": 3,
+        "LowerLimit": 106827,
+        "UpperLimit": 373894,
+        "IconUrl": "/img/green_v1.png",
+        "DisplayText": "4"
+      },
+      {
+        "Ix": 4,
+        "LowerLimit": 373895,
+        "UpperLimit": null,
+        "IconUrl": "/img/teal_v1.png",
+        "DisplayText": "5"
+      }
+    ]
+  },
+  "Filter": {
+    "Id": 1,
+    "Name": "Filters",
+    "DisplayLast": false,
+    "Options": [
+      {
+        "Id": "1",
+        "Name": "Store Id",
+        "MainAttributeId": 11,
+        "ColName": "Id"
+      },
+      {
+        "Id": "2",
+        "Name": "Median Income",
+        "MainAttributeId": 6,
+        "ColName": "Median_Income"
+      },
+      {
+        "Id": "3",
+        "Name": "Population",
+        "MainAttributeId": 30,
+        "ColName": "population"
+      }
+    ]
+  }
+}
+
+
+

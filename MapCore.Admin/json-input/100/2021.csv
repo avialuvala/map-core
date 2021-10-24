@@ -1,0 +1,1001 @@
+ID,Store_Name,City,State,Zip Code,Population,Median_Income
+8174,"Florida & Palm, Hemet",Hemet,CA,92543,35414,37108
+8175,Colorado & I-70- Idaho Springs,Idaho Springs,CO,80452,3109,66891
+8177,Hatch & Mitchell - Ceres,Ceres,CA,95307,45070,57909
+8178,Glenbrook Square Mall,Fort Wayne,IN,46805,21664,42840
+8180,Whipple & Industrial,Hayward,CA,94544,79254,79049
+8182,I-20 & Washington,Augusta,GA,30907,50977,70553
+8183,Us 17A & Berlin G. Myers,Summerville,SC,29483,54736,60768
+8184,Safeway - Scotts Valley #300,Scotts Valley,CA,95066,15114,112655
+8185,Vons-Anaheim Hills #2216,Anaheim,CA,92808,20662,128245
+8188,Safeway - Englewood #17,Englewood,CO,80113,23384,70969
+8189,Target Westbury T-1139,Westbury,NY,11590,46549,105770
+8190,I-240 & Pennsylvania,Oklahoma City,OK,73159,32136,49980
+8191,Matlock & Bardin,Arlington,TX,76018,27975,73061
+8192,Safeway-Juanita #2734,Kirkland,WA,98034,51051,104148
+8193,Rsw - Ft Myers Pier D,Fort Myers,FL,33913,26590,85053
+8194,Rsw - Ft Myers Pier B,Fort Myers,FL,33913,26590,85053
+8195,"Rsw - Ft Myers Main Term, Pre Sec",Fort Myers,FL,33913,26590,85053
+8196,Washingtonian Waterfront,Gaithersburg,MD,20878,68418,122795
+8200,"Flamingo & Eastern, Las Vegas",Las Vegas,NV,89121,65470,44834
+8201,"South Greece, Long Pond & Ridgeway",Greece,NY,14626,30108,64671
+8202,Northwest & Independence,Oklahoma City,OK,73112,31551,47703
+8203,75 & Campbell,Richardson,TX,75080,51017,73976
+8204,145Th And Lake City Way,Seattle,WA,98125,42060,73204
+8205,Medical & Wurzbach,San Antonio,TX,78229,34145,43799
+8206,Harris Teeter-Chantilly/Dulles S #2,Aldie,VA,20105,23310,158397
+8207,Safeway - Newcastle #558,Newcastle,WA,98059,36806,109471
+8208,Safeway-Edmonds #1297,Edmonds,WA,98026,37407,92018
+8209,Safeway-Everett #1484,Everett,WA,98203,36282,74083
+8210,Target Cicero T-732,Cicero,IL,60804,83165,49415
+8211,29Th & Broadway,Pittsburg,KS,66762,25153,39546
+8212,Harris Teeter-Holly Springs #118,Holly Springs,NC,27540,36960,102063
+8213,Hwy 6 & Memorial,Houston,TX,77079,34889,85876
+8214,Kingwood Dr & Green Oaks Dr,Humble,TX,77339,39790,74337
+8215,Kimball Junction- Park City,Park City,UT,84098,19656,126224
+8216,Westwood S.C.,Fredericksburg,VA,22401,29031,60357
+8217,Christiansburg,Christiansburg,VA,24073,31098,65410
+8218,Pembroke,Virginia Beach,VA,23462,64956,66572
+8219,Waynesboro,Waynesboro,VA,22980,32914,52408
+8220,116Th & Canyon Rd,Puyallup,WA,98373,23642,76523
+8221,Taylor & Manchester,Wildwood,MO,63040,8814,113892
+8222,Main & I-15,Barstow,CA,92311,33502,47602
+8223,Champaign - 5Th & Green,Champaign,IL,61820,39671,23936
+8224,Memorial Pkwy & Hwy 72,Huntsville,AL,35801,21860,71774
+8225,Target Jonesboro T-1919,Jonesboro,AR,72401,58208,46662
+8226,Target Yuma T-2083,Yuma,AZ,85365,48159,54929
+8227,Hwy 65 & O'bryant,Conway,AR,72032,34518,51879
+8229,"San Fernando & Walnut, Burbank",Burbank,CA,91504,26295,78902
+8231,I-540 & Rogers Ave,Fort Smith,AR,72903,26804,49276
+8232,Fashion Mall,Indianapolis,IN,46240,20464,67770
+8233,Palmdale Blvd & 3Rd,Palmdale,CA,93550,78691,47391
+8234,84Th And Pearl-Thornton,Thornton,CO,80229,56291,61896
+8235,Firestone-I-25 & Hwy 119,Firestone,CO,80504,56145,95371
+8236,Safeway-Chandler #1605,Chandler,AZ,85225,75654,66300
+8237,Florida Atlantic University,Boca Raton,FL,33431,19010,76294
+8238,9Th & South,Philadelphia,PA,19147,39345,66558
+8239,"Manning & Reed, Reedley",Reedley,CA,93654,31586,49549
+8241,"Madison & Los Alamos, Murri",Murrieta,CA,92562,66493,87245
+8242,Harbor & La Habra,La Habra,CA,90631,69565,83687
+8243,"Central & The 91 Fwy, Compton",Compton,CA,90220,50588,61045
+8244,"Carmel Mountain & E. Ocean Air, Sd",San Diego,CA,92130,55849,149852
+8245,6Th Street & Hamner,Norco,CA,92860,27078,99364
+8247,Marriott Hartford - Lobby,Hartford,CT,6103,2380,74371
+8248,Target Chesterfield Township T-945,Chesterfield Township,MI,48051,17507,73180
+8249,Mall Of America Ii,Bloomington,MN,55425,9127,63765
+8250,S. Robert & Thompson-West St. Paul,West St. Paul,MN,55118,27932,71669
+8251,Rosemount - Cr 42 & Hwy 3,Rosemount,MN,55068,30214,98500
+8252,Dekalb Travel Oasis Space D,Dekalb,IL,60115,44876,46937
+8253,Safeway - Medford #1643,Medford,OR,97504,47512,60093
+8255,Target Fredericksburg T-772,Fredericksburg,VA,22401,29031,60357
+8256,Farm Fresh-Hampton #193,Virginia Beach,VA,23454,60243,76981
+8257,Safeway - Vancouver #1611,Vancouver,WA,98661,44107,56420
+8258,Slauson & State,Huntington Park,CA,90255,77818,47367
+8259,"Old Town Front & 6Th, Temecula",Temecula,CA,92590,4731,73310
+8260,Valley View & Alondra,Santa Fe Springs,CA,90670,16937,74547
+8261,Saticoy & Louise,Van Nuys,CA,91406,58692,56801
+8262,Yamato Rd & Congress Ave,Boca Raton,FL,33434,20536,61714
+8263,Delaware & Shurfine - Ankeny,Ankeny,IA,50021,27686,83663
+8264,Riverstone Center,Coeur D'alene,ID,83814,26316,53539
+8265,"Robinson, Lafayette Plaza",Pittsburgh,PA,15275,67,84999
+8266,Hwy 66 & Us 411,Sevierville,TN,37876,32276,53770
+8267,I-10 & Vance Jackson,San Antonio,TX,78201,47466,41860
+8268,Hollymead Town Center,Charlottesville,VA,22911,17902,83931
+8271,Hwy 9 & Bethelview,Cumming,GA,30040,71012,97806
+8273,Wyomissing,Wyomissing,PA,19610,14969,84966
+8274,Old Hickory Blvd & Westpark Dr,Brentwood,TN,37027,58081,132888
+8275,Target Pembroke Pines T-920,Pembroke Pines,FL,33026,30978,76966
+8276,Target Naples T-899,Naples,FL,34109,25240,69631
+8277,Safeway-Coeur D'alene #1470,Coeur D'alene,ID,83814,26316,53539
+8279,Target Fayetteville T-755,Fayetteville,NC,28314,56902,50577
+8281,Target Fargo T-61,Fargo,ND,58103,48392,47062
+8282,Safeway-Longview #1078,Longview,WA,98632,49357,48320
+8283,Wade Hampton Blvd & Brannon Dr,Greer,SC,29651,46101,58478
+8284,Junction Hwy & Commerce,Kerrville,TX,78028,39046,52176
+8285,38Th & Guadalupe,Austin,TX,78705,37016,18883
+8286,Wards Road,Lynchburg,VA,24502,48909,54757
+8287,"Route 1, Fredericksburg",Fredericksburg,VA,22407,59904,86442
+8288,Mcgalliard & Reserve,Muncie,IN,47303,25556,37039
+8290,I-75 @ St Augustine Rd,Valdosta,GA,31601,34681,27349
+8292,Michigan City-Franklin & Rte 20,Michigan City,IN,46360,44005,49354
+8293,Lima & Dupont,Fort Wayne,IN,46818,19850,63737
+8294,I-20 @ Springridge,Clinton,MS,39056,25551,62925
+8295,Ballantyne,Charlotte,NC,28277,66934,108929
+8296,Towne Creek Commons,Salisbury,NC,28144,25232,41566
+8297,Burlington Mall,Burlington,NC,27215,41231,50253
+8298,Laguna & Bruceville - Elk Grove,Elk Grove,CA,95758,64712,82266
+8299,Henry St & Mamalahoa Hwy,Kailua-Kona,HI,96740,38944,78358
+8300,Target Tucson T-854,Tucson,AZ,85741,33546,61125
+8301,Kauai Village Shopping Center Kapaa,Kapaa,HI,96746,19847,78704
+8302,Albertsons-Palmdale #6333,Palmdale,CA,93551,52221,91539
+8303,Safeway - Steamboat Springs #637,Steamboat Springs,CO,80488,#N/A,#N/A
+8305,Target Rancho Santa Margarita T-914,Rancho Santa Margarita,CA,92688,46209,108537
+8307,Target Elk Grove T-1025,Elk Grove,CA,95758,64712,82266
+8308,Vons-Camarillo #2094,Camarillo,CA,93012,35922,108624
+8310,Rutgers U/Newark Robeson Stdnt Ctr,Newark,NJ,7102,11145,36928
+8311,Safeway-Mcminnville #1601,Mcminnville,OR,97128,38233,58700
+8312,Fred Meyer-Hillsboro #143,Tualatin,OR,97123,48423,79305
+8314,Qfc - Redmond Ridge #878,Redmond,WA,98053,22267,139714
+8315,Safeway - Des Moines #1186,Des Moines,WA,98198,37457,68326
+8316,Fred Meyer - Bellevue #23,Bellevue,WA,98007,28056,95054
+8317,Cwru - Residential Village,Cleveland,OH,44106,26905,30879
+8318,Penn State Hershey Medical Ctr Main,Hershey,PA,17033,16876,67433
+8319,Northwest Highway & I-35,Dallas,TX,75220,45868,47936
+8321,Kent Square,Blacksburg,VA,24060,46878,52263
+8322,Qfc-North Bend #829,North Bend,WA,98045,15508,109502
+8324,Lakewood & Artesia,Bellflower,CA,90706,79255,60348
+8325,"5Th & B Street, Oxnard",Oxnard,CA,93030,60342,73354
+8326,"28Th & B Street, San Diego",San Diego,CA,92102,46126,52385
+8327,Holiday Village-Great Falls-Mt,Great Falls,MT,59405,31243,47143
+8328,33-42 Hillel Place,Brooklyn,NY,11210,71329,66181
+8330,First & Main St. - Hillsboro,Hillsboro,OR,97123,48423,79305
+8331,I-30 & Broadway,Garland,TX,75043,61775,63263
+8332,Safeway - Moraga #969,Moraga,CA,94556,17727,163907
+8333,Farm Fresh - Williamsburg #405,Williamsburg,VA,23185,46961,82952
+8335,U Of Nm - Zimmerman Library,Albuquerque,NM,87131,418,24513
+8336,Doubletree Hotel @ Universal Studio,Orlando,FL,32819,29772,70850
+8337,Target Smyrna T-373,Smyrna,GA,30080,51003,72579
+8339,Target Largo T-1006,Largo,MD,20774,47131,98986
+8340,Target Bwi Bel Air T-1002,Bel Air,MD,21014,36567,92356
+8342,Sunset Station,Henderson,NV,89014,38767,61386
+8343,Target Clarkstown/West Nyack T-1083,West Nyack,NY,10994,7123,145814
+8344,Target Memphis T-1030,Memphis,TN,38133,21300,75777
+8345,Qfc-Mercer Island #839,Mercer Island,WA,98040,26081,144824
+8346,Branchburg,Branchburg,NJ,8876,22714,94997
+8347,Northpark Dr & Glade Valley Dr,Humble,TX,77339,39790,74337
+8349,84 State Street,Boston,MA,2109,4332,123410
+8351,Eastridge Mall - San Jose,San Jose,CA,95122,58826,76248
+8352,"Channel Islands & Rose, Oxnard",Oxnard,CA,93033,85219,64217
+8354,Lloyd Expwy & Green River Rd,Evansville,IN,47715,27728,47260
+8355,"Michigan & Oakman, Dearborn",Dearborn,MI,48126,46192,37530
+8356,Brooklyn Ctr-Brooklyn Blvd. & 55Th,Brooklyn Center,MN,55429,26524,56649
+8357,2510 Reserve Street- Missoula,Missoula,MT,59801,32610,42238
+8358,Cascade Village - Bend,Bend,OR,97701,37934,64257
+8359,I-45 & West,Houston,TX,77037,20127,50196
+8360,15Th & Custer,Plano,TX,75075,37264,81633
+8361,Fm 1960 & Wilson Rd,Humble,TX,77338,40854,56162
+8362,Great Hills Trail & Jolleyville,Austin,TX,78759,41010,81480
+8363,"Mcclintock & Southern, Tempe",Tempe,AZ,85282,51005,60673
+8364,"Baseline & 51St. Avenue, Laveen",Laveen,AZ,85339,40784,75582
+8366,"State & Victoria, Santa Barbara",Santa Barbara,CA,93101,32577,62661
+8367,"Waterville, Maine",Waterville,ME,4901,26412,45624
+8370,Saddle Creek,Germantown,TN,38138,24221,102745
+8371,I-20 And Trail Lake,Fort Worth,TX,76133,51950,59816
+8372,Kroger - Savannah #645,Savannah,GA,31405,36101,53790
+8373,Hinsdale-Washington & Hinsdale,Hinsdale,IL,60521,18510,170639
+8375,Us 31 & Commerce,Franklin,IN,46131,32666,65168
+8376,Mci Kansas City Int'l Term B Upper,Kansas City,MO,64153,5501,81548
+8378,Eastwood Mall,Niles,OH,44446,20236,44676
+8381,Target Peachtree City T-2129,Peachtree City,GA,30269,36289,101493
+8383,Target Chicago T-2079,Chicago,IL,60659,38275,53919
+8384,Target Lanham T-2007,Bowie,MD,20720,24633,146463
+8385,Towson University - Cook Library,Towson,MD,21252,86,9999
+8386,Target Fenton T-2105,Fenton,MI,48430,36320,75537
+8387,Target St Paul/Oakdale T-2135,St. Paul,MN,55128,29181,74845
+8388,Target Jefferson City T-752,Jefferson City,MO,65109,38290,61836
+8389,Target O'fallon/Dardenne T-2103,Dardenne,MO,63368,44448,106664
+8390,Horseshoe Casino Tunica,Tunica,MS,38664,3002,38806
+8391,Target Kernersville T-2134,Kernersville,NC,27284,53753,65403
+8392,Target Knightdale T-2111,Knightdale,NC,27545,27189,68151
+8393,Super Target Charlotte St-2132,Charlotte,NC,28273,38241,69134
+8394,Target Omaha T-2010,Omaha,NE,68122,11469,75594
+8395,Target Omaha T-2125,Omaha,NE,68114,17444,58502
+8396,Target Central Islip T-2102,Central Islip,NY,11722,34809,70226
+8398,Target Big Flats T-2158,Big Flats,NY,14814,1869,83276
+8399,Kroger - Liberty Township #383,Liberty,OH,45069,52114,94742
+8400,Target Streetsboro T-2157,Streetsboro,OH,44241,16848,64690
+8401,Target Sandusky T-2159,Sandusky,OH,44870,39619,47752
+8402,Target Bainbridge T-2161,Aurora,OH,44202,20293,86491
+8403,Target Uniontown T-2184,Uniontown,PA,15401,31729,42957
+8404,Kroger-Myrtle Beach #26,Myrtle Beach,SC,29579,41895,58957
+8405,Target Knoxville North T-2057,Knoxville,TN,37918,45297,56131
+8406,Target Houston T-2093,Houston,TX,77007,37674,103179
+8407,Target Houston/Westminister T-2139,Houston,TX,77063,36410,52462
+8408,Tom Thumb - Plano #3645,Plano,TX,75074,53054,72278
+8409,Target Brownsville T-2152,Brownsville,TX,78526,51906,57756
+8410,Target Fredericksburg St-2138,Fredericksburg,VA,22407,59904,86442
+8411,Russell Investments Center-Seattle,Seattle,WA,98101,14235,84645
+8412,Brentwood & White,Brentwood,MO,63144,8888,80629
+8413,I-24 & Hillsboro Hwy,Manchester,TN,37355,26359,56231
+8414,Hwy 231 & Innsbrooke,Murfreesboro,TN,37127,17961,74778
+8415,Target Lady Lake T-2058,Lady Lake,FL,32159,30067,49352
+8416,8602 Hillsborough Ave,Tampa,FL,33615,45780,56696
+8417,Super Target Ft Lauderdale/Davie St,Davie,FL,33328,28520,91909
+8418,Tarpon Ave & Us Hwy 19,Tarpon Springs,FL,34689,27721,53031
+8419,Fruit Cove Rd,Jacksonville,FL,32259,48653,111512
+8420,Target Destin T-2085,Destin,FL,32541,18083,78525
+8421,Super Target Ft Myers St-2059,Fort Myers,FL,33913,26590,85053
+8422,Target Dora T-2062,Mount Dora,FL,32757,26664,64011
+8423,Target Pinellas Park T-2064,Pinellas Park,FL,33781,26338,48871
+8424,Target Lake Park T-1941,Lake Park,FL,33403,12867,53667
+8425,I-10 & Thomasville Rd,Tallahassee,FL,32309,30666,85320
+8426,Kroger-Alpharetta #444,Alpharetta,GA,30004,63446,114122
+8427,Super Target Atlanta St-2036,Atlanta,GA,30346,5077,88247
+8428,Super Target Johns Creek St-2056,Suwanee,GA,30024,78879,111270
+8429,Target Evans T-2027,Evans,GA,30809,50562,99799
+8430,Super Target Broadview T-2081,Broadview,IL,60155,7746,59054
+8431,Renaissance Chicago O'hare Hotel,Chicago,IL,60631,27875,89787
+8432,Target New Lenox T-2028,New Lenox,IL,60451,35922,106156
+8433,Super Target Tinley Park St-2035,Tinley Park,IL,60487,25423,99861
+8435,116Th & Keystone,Carmel,IN,46033,39019,132267
+8436,Target St John T-2048,St John,IN,46373,15360,106309
+8437,Target Clarksville T-2068,Clarksville,IN,47129,19688,44487
+8438,Target Overland Park W T-2043,Overland Park,KS,66214,12208,59547
+8439,Boston & Man O' War,Lexington,KY,40514,15903,92608
+8440,Crestview Hills,Crestview Hills,KY,41017,39862,80997
+8441,Super Target Baton Rouge St-2089,Baton Rouge,LA,70816,40663,54996
+8442,"Chicopee, Memorial Dr.",Chicopee,MA,1020,30309,61103
+8443,"Natick, Sherwood Plaza",Natick,MA,1702,38576,60241
+8444,Centerpointe,Baltimore,MD,21201,17669,36864
+8445,Mdt B3,Middletown,PA,17057,22455,63030
+8446,Wilkes-Barre Marketplace,Wilkes-Barre,PA,18702,39749,43954
+8448,"Roland Park, Md",Baltimore,MD,21210,15094,98466
+8449,Kroger-Bluffton #499,Bluffton,SC,29910,42994,70845
+8451,Kroger-Beaumont #325,Beaumont,TX,77706,28202,67494
+8452,Tom Thumb - Flower Mound #3575,Flower Mound,TX,75028,45343,122448
+8453,Target Dallas T-947,Dallas,TX,75220,45868,47936
+8454,I-10 & Hwy 46,Boerne,TX,78006,36109,84042
+8455,Fairmont & Pansy,Pasadena,TX,77505,20640,86236
+8456,Tom Thumb - Frisco #2581,Frisco,TX,75034,67582,100765
+8457,Hwy 26 & Church,Colleyville,TX,76034,27403,160896
+8458,University & Wellborn,College Station,TX,77840,63442,25939
+8460,North St & West College,Nacogdoches,TX,75965,17732,49228
+8461,361 California,Palo Alto,CA,94306,26948,143205
+8462,Target Modesto/Riverbank T-2096,Riverbank,CA,95367,24416,69605
+8463,Story & King,San Jose,CA,95122,58826,76248
+8464,Target Carson T-2026,Carson,CA,90746,25406,86259
+8465,Vons - Bakersfield #2420,Bakersfield,CA,93311,47442,94828
+8466,Target Whittier T-2019,Whittier,CA,90603,20493,97473
+8467,Pleasant Grove & Hwy 65,Roseville,CA,95678,43423,75547
+8468,Safeway - Santa Rosa #713,Santa Rosa,CA,95409,28177,77754
+8469,The Shops At Tanforan,San Bruno,CA,94066,43677,106094
+8470,Target San Jose T-1984,San Jose,CA,95122,58826,76248
+8471,Safeway - Mill Valley #2718,Mill Valley,CA,94941,31300,152231
+8472,Speer & Federal - Denver,Denver,CO,80211,38205,76353
+8473,Super Target Arvada St-2021,Wheat Ridge,CO,80033,25874,59225
+8474,Target Glenwood Springs T-2029,Glenwood Springs,CO,81601,15294,78380
+8475,Super Target Lone Tree St-2023,Lone Tree,CO,80124,21122,116265
+8476,City Market - Steamboat Sprngs #414,Steamboat Springs,CO,80477,#N/A,#N/A
+8477,Supertarget Denver/Stapltn St-2052,Denver,CO,80207,23814,80142
+8478,"Stratford, Barnum Avenue",Stratford,CT,6614,33152,86057
+8480,Super Target Saint Paul St-2046,Saint Paul,MN,55118,27932,71669
+8481,Super Target Roseville St-2101,Roseville,MN,55113,40482,75280
+8482,Target Hampton Vlg St Louis T-1515,St Louis,MO,63109,26249,61762
+8483,Target Hattiesburg T-2055,Hattiesburg,MS,39402,42124,62321
+8484,"Southfield & Outer Dr, Allen Park",Allen Park,MI,48101,27038,73662
+8485,Waterfall Shoppes - 28Th & I-96,Grand Rapids,MI,49512,17314,54256
+8486,Target Allen Park T-2033,Allen Park,MI,48101,27038,73662
+8487,New Bern Commons,Raleigh,NC,27610,73055,54676
+8488,Super Target Durham Se St-2069,Durham,NC,27713,52521,79136
+8489,Target Monroe T-2074,Monroe,NC,28110,55187,64146
+8490,Target Bedford T-2009,Bedford,NH,3110,22661,137590
+8491,"Tilton, Tanger Outlet",Tilton,NH,3276,8199,66249
+8492,Hamilton Trenton,Hamilton,NJ,8619,21539,83579
+8493,Target Albuquerque T-2031,Albuquerque,NM,87109,39241,55381
+8494,"Riverhead, Tanger",Riverhead,NY,11901,27566,64629
+8495,Target Monroe T-2024,Monroe,NY,10950,50502,76111
+8496,Target Massillon T-2044,Massillon,OH,44646,47413,55705
+8497,Reynoldsburg,Reynoldsburg,OH,43068,55378,68865
+8498,Target Columbus East T-2086,Reynoldsburg,OH,43068,55378,68865
+8499,Target North Olmsted T-2016,North Olmsted,OH,44070,31893,66709
+8501,Target Midwest City T-2061,Midwest City,OK,73110,34016,43899
+8502,Target Owasso T-2095,Owasso,OK,74055,45082,76711
+8503,Salem Parkway- Salem,Salem,OR,97301,55854,44813
+8504,Target Philadelphia/Bridesbrgt-2075,Philadelphia,PA,19134,61682,31302
+8505,Giant - Jamison #3037,Jamison,PA,18929,9524,138371
+8506,Target Lancaster T-2072,Lancaster,PA,17602,53767,55636
+8508,Giant 6507 @ St Davids,Wayne,PA,19087,33001,133707
+8509,Target Lincoln T-2073,Lincoln,RI,2865,17699,81936
+8510,Safeway-Orting #1844,Orting,WA,98360,12981,84156
+8511,Fred Meyer-Veradale #351,Veradale,WA,99037,15757,64984
+8513,Cumberland Ave & 21St St,Knoxville,TN,37916,12241,21286
+8514,Target Hixon/Chattanooga T-2053,Hixson,TN,37343,42129,64100
+8516,Hwy 153 At Hamill Rd,Hixson,TN,37343,42129,64100
+8518,Target San Antonio T-1979,San Antonio,TX,78245,71617,66946
+8520,Target Willowbrook T-2066,Houston,TX,77069,17390,68334
+8521,Super Target Ft Worth St-2042,Ft Worth,TX,76107,32069,70336
+8522,Little Cottonwood Shopping Center,Sandy,UT,84093,23797,105023
+8523,Target Dumfries T-2017,Dumfries,VA,22025,19158,123917
+8524,Target Harrisonburg T-2071,Harrisonburg,VA,22801,39790,53129
+8525,W. 27Th Ave & Hwy 395,Kennewick,WA,99337,32282,76259
+8526,Center Drive Dupont,Dupont,WA,98327,9609,84568
+8527,Stanwood Town Center,Stanwood,WA,98292,22509,85411
+8528,Cheney Plaza,Cheney,WA,99004,19637,53302
+8529,Se 256Th Street-Kent,Kent,WA,98030,37199,67775
+8530,"Avondale & 116Th - Redmond, Wa",Redmond,WA,98052,66938,127400
+8532,Qfc - Northgate #866,Seattle,WA,98125,42060,73204
+8535,Univ. Of Kentucky Wt Young Library,Lexington,KY,40506,2,0
+8536,Virginia & Broadway,Lexington,KY,40504,27548,39110
+8537,Taylorsville & I-265,Louisville,KY,40299,40679,79176
+8538,Commerce & Nicholasville,Nicholasville,KY,40356,44467,60207
+8539,Safeway - Williams #1639,Williams,AZ,86046,7969,54231
+8541,"91St. Avenue & Thomas, Phoenix",Phoenix,AZ,85037,47418,59837
+8542,"First & Wetmore, Tucson",Tucson,AZ,85705,60726,30569
+8543,Asu West Campus - Fletcher Library,Glendale,AZ,85306,25620,65692
+8544,Harden Rd & Polk County Blvd,Lakeland,FL,33803,29264,52958
+8545,"Lakewood & Stewart And Gray, Downey",Downey,CA,90242,46092,69567
+8546,Clairmont & Stein,Eau Claire,WI,54701,40187,58869
+8548,State And Veterans Parkway-Boise,Boise,ID,83703,16797,63063
+8549,Route 59 & Irving Park,Streamwood,IL,60107,39355,84323
+8550,Hainesville-Rte 120 & Hainesville,Hainesville,IL,60030,35747,91248
+8551,Route 38 & Annie Glidden,Dekalb,IL,60115,44876,46937
+8553,Jewel-Osco Homer Glen #2503,Lockport,IL,60491,23523,101174
+8555,Lake & Barrington,Hanover Park,IL,60133,37963,77505
+8556,Target Peru T-929,Peru,IL,61354,10698,53245
+8557,University Of South In/Evansville,Evansville,IN,47712,26333,53405
+8558,E. Longmeadow Center,East Longmeadow,MA,1028,16292,90384
+8559,Northeastern U - Curry Student Ctr,Boston,MA,2115,30136,48492
+8560,Westin Boston Waterfront,Boston,MA,2210,3994,132960
+8561,Safeway - North Bend #1557,North Bend,OR,97459,14591,53209
+8562,Safeway - Portland #509,Portland,OR,97211,33902,83759
+8563,Fred Meyer - Peninsula #255,Portland,OR,97203,33994,62973
+8564,Safeway - Portland #1612,Portland,OR,97232,15088,61011
+8565,Fred Meyer-Medford #195,Medford,OR,97504,47512,60093
+8566,Safeway - Lincoln City #415,Lincoln City,OR,97367,10141,46808
+8567,Safeway - Portland #382,Portland,OR,97236,38221,52856
+8568,Rochester Rd. & Tienken,Rochester Hills,MI,48307,43337,79451
+8569,Target Westland T-281,Westland,MI,48185,46133,49789
+8570,Woodward & Mack,Detroit,MI,48201,12830,18664
+8572,Central City Pkwy & Warren Rd,Westland,MI,48185,46133,49789
+8574,Harris Teeter-Chapel Hill #137,Chapel Hill,NC,27517,27094,90860
+8576,Concord Mills,Concord,NC,28027,65344,75395
+8577,Speedway Blvd.,Concord,NC,28027,65344,75395
+8578,Cary Towne Center,Cary,NC,27511,34904,77888
+8579,Stop & Shop-Morris Plains # 893,Morris Plains,NJ,7950,19114,128036
+8580,Unlv - Student Union,Las Vegas,NV,89154,332,0
+8581,Mccarran & Hwy 395 - Reno,Reno,NV,89512,28206,39557
+8584,Safeway - Fallon #1517,Fallon,NV,89406,23886,54060
+8585,"Plattsburgh, Cornelia St.",Plattsburgh,NY,12901,32558,53077
+8586,Suny/Fredonia-Cranston Hall,Fredonia,NY,14063,14087,55987
+8587,Bayport,Bayport,NY,11705,8101,109294
+8588,35Th & 5Th,New York,NY,10016,56813,113693
+8589,The Marketplace Mall,Rochester,NY,14623,28051,56335
+8590,"Kingston, Massa Drive",Kingston,NY,12401,34566,55612
+8591,Olentangy River Road,Columbus,OH,43212,21915,71155
+8592,Canal Winchester,Canal Winchester,OH,43110,37558,69948
+8593,Colonel Glenn & Zink,Fairborn,OH,45324,41673,53756
+8594,"Worthington, North High Street",Worthington,OH,43085,24594,86982
+8595,I-40 & Kickapoo,Shawnee,OK,74804,21374,55130
+8596,White Settlement & 820,Fort Worth,TX,76108,42793,69837
+8597,Valley View,Roanoke,VA,24012,29530,48640
+8598,"Williston Rd, S. Burlington.",South Burlington,VT,5403,17896,72249
+8599,132Nd Ave Se & Se Kent Kangley Rd,Kent,WA,98030,37199,67775
+8600,North Road 68 & Wrigley Dr,Pasco,WA,99301,80146,67986
+8602,Hwy 119 & Kent Dairy,Alabaster,AL,35007,28181,75946
+8603,State Farm & Lakeshore,Birmingham,AL,35209,29899,59637
+8604,Taylor & Vaughn,Montgomery,AL,36116,43078,47113
+8606,I-540 & Pleasant Grove,Rogers,AR,72758,40574,70305
+8608,Indiantown & 67Th Rd,Jupiter,FL,33458,57141,84246
+8609,Clint Moore Rd & Us Hwy 441,Boca Raton,FL,33496,22314,91182
+8610,Race Track & Nine Eagles,Tampa,FL,33626,30042,102977
+8611,Cordova Mall - First Level,Pensacola,FL,32504,22455,55568
+8612,Blanding & Bolton,Orange Park,FL,32073,41238,63141
+8613,Kroger-Dacula #457,Dacula,GA,30019,47819,92620
+8615,Kroger - Evans #414,Evans,GA,30809,50562,99799
+8616,Hwy 120 & Hwy 316,Lawrenceville,GA,30043,89640,78750
+8618,Georgia Southern University,Statesboro,GA,30460,#N/A,#N/A
+8619,Kroger-Jasper #620,Jasper,GA,30143,22806,71169
+8620,I-75 & Hwy 20,Mcdonough,GA,30253,55575,69071
+8621,Cloverdale & Hwy 101,Cloverdale,CA,95425,10940,76054
+8622,"Avenue 48 & Jackson, Coachella",Coachella,CA,92236,45639,41585
+8623,Broadway & Hwy 101,King City,CA,93930,17770,49988
+8624,Newport & Del Mar,Costa Mesa,CA,92627,63980,74079
+8626,John Daly & Westlake Center,Daly City,CA,94015,64390,96597
+8627,Safeway - Vallejo #989,Vallejo,CA,94591,55106,85955
+8628,Crow Canyon Place & I680,San Ramon,CA,94583,35812,149760
+8629,Target San Mateo T-1122,San Mateo,CA,94404,37766,147358
+8630,"Ventura & Villanova, Ojai",Ojai,CA,93023,21220,79288
+8631,Safeway - Benicia #774,Benicia,CA,94510,28398,102781
+8632,Boronda & Sanborn,Salinas,CA,93905,64314,50587
+8633,Target Paso Robles T-1120,Paso Robles,CA,93446,46378,75196
+8634,"Yucaipa & Hampton, Yucaipa",Yucaipa,CA,92399,55036,65115
+8636,Homestead & Foothill,Cupertino,CA,95014,64098,163754
+8637,Vons - San Pedro #2283,San Pedro,CA,90731,63411,59097
+8638,Day Creek & Foothill,Rancho Cucamonga,CA,91739,38589,110812
+8639,Vons - El Cajon #3044,El Cajon,CA,92020,62673,60627
+8640,Meridian & Lenn,San Jose,CA,95125,54397,130573
+8642,Washington & I-215,Colton,CA,92324,59261,54608
+8643,Safeway - Fremont #993,Fremont,CA,94538,67227,111403
+8644,Bay & Taylor,San Francisco,CA,94133,28132,80136
+8647,Safeway - Hollister #1757,Hollister,CA,95023,53299,88184
+8648,Vons - San Diego #2040,San Diego,CA,92111,47519,73438
+8649,Vons - Bonita #2130,Bonita,CA,91902,18516,97345
+8651,Palm Dr. & Two Bunch Palms,Desert Hot Springs,CA,92240,37343,41441
+8652,"28Th & National, San Diego",San Diego,CA,92113,53259,40447
+8653,65Th & Broadway,Sacramento,CA,95817,15136,53912
+8655,Tower & I-70- Aurora,Aurora,CO,80011,53158,51705
+8657,Travel Ctr-New Haven,Branford,CT,6405,28122,78340
+8658,Safeway-Pleasanton #1502,Pleasanton,CA,94566,48510,151869
+8659,Safeway-Lakewood #41,Lakewood,CO,80228,33750,82621
+8660,Rand Rd & Rt 22,Lake Zurich,IL,60047,42586,142577
+8661,Lancaster & Silverton - Salem,Salem,OR,97305,42298,53486
+8662,I5 & Cook,Burlington,WA,98233,15423,64301
+8665,28Th & Pearl - Boulder,Boulder,CO,80302,29322,59127
+8666,Pacific Coast Hwy & Diamond St.,Redondo Beach,CA,90277,35775,103131
+8667,Park In The Valley - San Diego,San Diego,CA,92108,23531,77628
+8668,Wilshire & Highland,Los Angeles,CA,90036,39064,80959
+8669,Hilton Village,Scottsdale,AZ,85250,16496,74999
+8671,Scottsdale & Indian Bend,Scottsdale,AZ,85253,19600,138563
+8672,Westlake & Thousand Oaks,Thousand Oaks,CA,91362,36744,118698
+8673,Harmony & Jfk,Fort Collins,CO,80525,57601,75681
+8674,Yorba Linda & Village Center Dr,Yorba Linda,CA,92886,50610,123677
+8675,The Marketplace-Bakersfield,Bakersfield,CA,93311,47442,94828
+8676,Arizona Mills,Tempe,AZ,85282,51005,60673
+8678,Kingstowne,Kingstowne,VA,22315,28860,135703
+8679,Del Monte & Reservation,Marina,CA,93933,25312,68745
+8680,Bradlick Shopping Center,Annandale,VA,22003,58855,102589
+8684,28 E. Main,Walla Walla,WA,99362,42358,59360
+8686,4Th & Seneca,Seattle,WA,98101,14235,84645
+8689,Belltown,Seattle,WA,98121,18363,99049
+8690,Colorado & Middlefield - Palo Alto,Palo Alto,CA,94306,26948,143205
+8691,196Th & 40Th,Lynnwood,WA,98036,39961,80672
+8692,Chambers And West Broadway,New York,NY,10007,11112,248237
+8693,700 E & 400 S - Salt Lake City,Salt Lake City,UT,84102,17874,48435
+8694,"Val Vista & Baseline, Mesa",Mesa,AZ,85204,66075,53890
+8695,Brea & Imperial,Brea,CA,92821,37967,93885
+8696,Mco - Orlando Main Term Atrium,Orlando,FL,32827,13327,82137
+8699,Pbi - West Palm Conc C,West Palm Beach,FL,33406,27828,60721
+8702,Alpharetta Barnes & Noble,Alpharetta,GA,30022,69075,110704
+8704,"Huntington & Fremont, S. Pasadena",South Pasadena,CA,91030,26209,92738
+8705,Safeway-Tigard (King City) #1478,Tigard,OR,97224,35694,78174
+8706,"Goshen & Akers, Visalia",Visalia,CA,93291,57964,57564
+8707,"Ord Ohare Terminal 1, Baggage Claim",Chicago,IL,60666,0,0
+8708,"Ord Ohare Terminal 3, Baggage Claim",Chicago,IL,60666,0,0
+8710,Clark & Randolph - Ct&T Building,Chicago,IL,60601,14709,114071
+8711,Clackamas Crossing,Happy Valley,OR,97086,30787,96952
+8712,Brookline Village,Brookline,MA,2445,20899,124071
+8714,Athens,Athens,GA,30601,22425,25533
+8715,Union Street Station,Gainesville,FL,32601,20784,28444
+8716,Hamburg,Blasdell,NY,14219,11660,56539
+8717,Jamboree & Birch,Newport Beach,CA,92660,35062,122890
+8718,Lenox Kiosk,Atlanta,GA,30326,7007,103673
+8720,Washington & Walnut Ave,Marina Del Rey,CA,90292,25526,108651
+8721,Hesperian & Leweling,San Lorenzo,CA,94580,29550,91357
+8722,Broad Ripple,Indianapolis,IN,46220,35628,75802
+8723,Cole & Lemmon,Dallas,TX,75204,37145,75439
+8724,Roosevelt & Lincoln,Lombard,IL,60148,52941,80776
+8725,College & Bennington,Baton Rouge,LA,70808,30486,63072
+8726,Mlk Way,Seattle,WA,98144,31346,81644
+8728,Hazel Dell,Vancouver,WA,98665,25982,67653
+8730,Shoppes At Metro,Hyattsville,MD,20782,32814,72574
+8731,"40Th Street & Greenway, Phoenix",Phoenix,AZ,85032,67284,60417
+8732,Hen House Market-Merriam #31,Merriam,KS,66202,16637,59294
+8734,Woodbridge Mall,Woodbridge,NJ,7095,18311,86759
+8735,59Th & Columbus,New York,NY,10023,64551,129019
+8737,Branford,Branford,CT,6405,28122,78340
+8738,N. Livermore & Portola,Livermore,CA,94551,41607,110178
+8739,Silver Spur & Hawthorne,Rolling Hills Estates,CA,90274,26192,156513
+8740,Carmel Mountain,San Diego,CA,92128,49716,101765
+8741,Torrance Crossroads,Torrance,CA,90505,37603,94974
+8742,La Jolla,La Jolla,CA,92037,41173,114539
+8743,15Th & Broadway,Portland,OR,97232,15088,61011
+8744,"Salem, Or",Salem,OR,97301,55854,44813
+8745,4Th & Oak,Portland,OR,97204,997,9999
+8746,"Hillsdale, Or",Portland,OR,97239,18674,89416
+8748,6Th & Washington,Portland,OR,97205,9199,43620
+8749,Seattle Municipal Building,Seattle,WA,98104,15723,54566
+8750,2Nd & Madison,Seattle,WA,98104,15723,54566
+8752,Us Bank Centre,Seattle,WA,98101,14235,84645
+8754,347 Park Avenue - Glencoe,Glencoe,IL,60022,8271,195861
+8755,401 East Ontario,Chicago,IL,60611,34939,99674
+8756,Two North Riverside Plaza,Chicago,IL,60606,2633,94358
+8757,Hendrix & Woodruff Rd,Greenville,SC,29607,42372,59087
+8758,"Shelton, Crown Point Center",Shelton,CT,6484,40741,92172
+8759,"6Th & C Street, Sw",Washington,DC,20024,14354,80376
+8760,St Johns Town Center Mall,Jacksonville,FL,32246,52542,58730
+8761,Hwy 92 & King Rd,Roswell,GA,30075,55926,119261
+8762,Boise Avenue And Apple-Id,Boise,ID,83706,31266,51280
+8764,University And Broadway,Boulder,CO,80302,29322,59127
+8765,2745 Pfingston Rd - Plaza Del Prado,Glenview,IL,60026,13719,114744
+8767,Colorado Springs,Colorado Springs,CO,80903,15744,48801
+8768,Ballard,Seattle,WA,98107,26960,90638
+8769,13Th & Alder,Eugene,OR,97401,44682,41557
+8771,West Seattle,Seattle,WA,98116,25215,108231
+8772,26Th And Proctor,Tacoma,WA,98407,20876,80832
+8774,Twin Lakes/Fred Meyer,Federal Way,WA,98023,51975,82935
+8775,N. 30Th & Mccarver/Old Town,Tacoma,WA,98403,8064,65514
+8776,Dash Point,Federal Way,WA,98023,51975,82935
+8777,Grand River & Farmington Rd,Farmington,MI,48336,25970,65264
+8778,"Hudson, South Main Street",Hudson,OH,44236,24987,128134
+8779,183Rd & Governor's Hwy,Homewood,IL,60430,19721,79163
+8781,Dunwoody Village,Dunwoody,GA,30338,35338,99485
+8782,Rookwood Pavillion,Cincinnati,OH,45208,18042,89429
+8783,Cherrywood,Centennial,CO,80122,33084,99872
+8784,Main & Crescent,Glen Ellyn,IL,60137,39043,103839
+8785,Southtown - I-494 And Penn,Bloomington,MN,55431,20267,80416
+8786,"Euclid & Market, San Diego",San Diego,CA,92114,68496,70105
+8787,Hardy St & 38Th Ave,Hattiesburg,MS,39402,42124,62321
+8788,Las Terminal D,Las Vegas,NV,89118,24542,55273
+8789,West Valley-Shoppes At Lake Park,West Valley City,UT,84120,52106,68852
+8790,Hawthorne & Nevada,Spokane,WA,99218,14214,55248
+8791,E 14Th & 136Th,San Leandro,CA,94578,42035,62187
+8792,Albertsons-Las Vegas #6012,Las Vegas,NV,89129,52756,74113
+8795,75Th & First,New York,NY,10021,44764,125768
+8796,165 Newbury,Boston,MA,2116,22996,110924
+8797,Greenbriar,Fairfax,VA,22033,39887,117720
+8798,One Oliver Plaza,Pittsburgh,PA,15222,4827,84488
+8799,1201 Market,Philadelphia,PA,19107,15922,51177
+8800,Trooper,Norristown,PA,19403,43921,87776
+8803,Potomac,Potomac,MD,20854,51826,204138
+8805,Georgetown Dc,Washington,DC,20007,27650,129198
+8806,El Camino & El Monte,Mountain View,CA,94040,35610,132147
+8808,Mandalay Village,Port Hueneme,CA,93041,24872,68586
+8809,Mt Diablo & Oak Hill Rd,Lafayette,CA,94549,29788,163817
+8810,Terra Linda At Northgate,San Rafael,CA,94903,29900,110502
+8811,San Carlos & Laurel,San Carlos,CA,94070,30735,167075
+8812,Encinitas Lumberyard,Encinitas,CA,92024,52848,109685
+8816,San Dimas,San Dimas,CA,91773,34791,88743
+8817,Hwy 113 & Covell - Davis,Davis,CA,95616,50877,58861
+8818,I-80 & Willow - Hercules,Hercules,CA,94547,25362,122884
+8819,Capitola Mall,Capitola,CA,95010,9467,75653
+8820,I5 & Hwy 33,Gustine,CA,95322,9840,50115
+8821,Vons-Hermosa Beach #2110,Hermosa Beach,CA,90254,19947,125353
+8822,"Gage & Compton, Huntington Park",Los Angeles,CA,90001,59227,42003
+8823,Vons-Rancho Cucamonga #2147,Rancho Cucamonga,CA,91701,40470,94892
+8824,Academy & Austin Bluffs,Colorado Springs,CO,80918,50790,68138
+8825,Arden Fair Mall,Sacramento,CA,95815,26848,39430
+8826,Monrovia,Monrovia,CA,91016,41527,77719
+8827,La Tijera & Sepulveda,Los Angeles,CA,90045,43581,90620
+8828,Chorro Street - San Luis Obispo,San Luis Obispo,CA,93405,35213,56287
+8829,"Fitzgerald & Appian, Pinole",Pinole,CA,94564,19579,91543
+8830,Santa Margarita Pkwy & Antonio Pkwy,Rancho Santa Margarita,CA,92688,46209,108537
+8831,20663 Rustic Drive,Castro Valley,CA,94546,45443,92974
+8832,3Rd & Fairfax (Farmers Market),Los Angeles,CA,90036,39064,80959
+8833,Mac Arthur & Campus,Newport Beach,CA,92660,35062,122890
+8834,Genesee Plaza,San Diego,CA,92117,52520,80944
+8835,E Bidwell & Glenn Folsom,Folsom,CA,95630,77800,116933
+8836,Far West Blvd. & Hart Ln.,Austin,TX,78731,27714,93644
+8838,455 Market,San Francisco,CA,94105,7292,189241
+8839,120Th & Huron,Westminster,CO,80234,26869,76612
+8841,Columbus Square,Dallas,TX,75204,37145,75439
+8842,Lockhill Selma,San Antonio,TX,78213,44807,47129
+8843,19Th And Irving,San Francisco,CA,94122,58901,116019
+8846,Date & Madison - Sacramento,Sacramento,CA,95841,21722,51225
+8847,South County Mall,St. Louis,MO,63129,52795,77476
+8848,Super Target Viera St-1934,Viera,FL,32940,36027,76950
+8849,Safeway-Westminster #1616,Westminster,MD,21158,20160,90461
+8851,15Th & I Streets,Washington,DC,20005,13865,98893
+8852,Park Ave & Iron Horse,Park City,UT,84060,8586,113492
+8854,Route 537 Freehold,Freehold,NJ,7728,55978,93431
+8857,Safeway-Fairfax #1431,Fairfax,VA,22033,39887,117720
+8858,Universal City Walk,Universal City,CA,91608,0,0
+8859,Martin's-Niles #19,Niles,MI,49120,36614,48666
+8863,Associated Food Store-Slc #2395,Salt Lake City,UT,84121,42413,90629
+8867,Albertsons-Fullerton #6119,Fullerton,CA,92831,36390,72900
+8870,Safeway-Folsom #1794,Folsom,CA,95630,77800,116933
+8871,Target Sherman T-1861,Sherman,TX,75092,24683,61062
+8872,Target San Antonio T-1852,San Antonio,TX,78223,55190,45099
+8873,Target Port Arthur T-1877,Port Arthur,TX,77642,37886,35331
+8874,Target Stafford,Stafford,VA,22556,29218,112449
+8875,Target Kohler T-1880,Sheboygan,WI,53085,11314,61461
+8876,Cajalco & Highway 15,Corona,CA,92881,32382,101887
+8877,Safeway-Phoenix #1543,Phoenix,AZ,85331,30927,104019
+8879,Safeway-Scottsdale #1750,Scottsdale,AZ,85254,46751,93848
+8880,Safeway-Seattle #3540,Des Moines,WA,98198,37457,68326
+8883,Safeway-La Grande #1827,La Grande,OR,97850,16969,50445
+8884,Vons-La Jolla #2323,La Jolla,CA,92037,41173,114539
+8885,Vons-Los Angeles #2261,Los Angeles,CA,90020,41183,49074
+8886,Roosevelt & Wabash,Chicago,IL,60605,30147,107087
+8887,Southcenter Mall Center,Tukwila,WA,98188,23840,59129
+8888,Figueroa & 7Th (Figat7th),Los Angeles,CA,90017,29152,38749
+8889,Laurel Canyon & Riverside,Valley Village,CA,91607,33194,67303
+8890,Clovis & Kings Canyon - Fresno,Fresno,CA,93727,76321,53496
+8891,Potomac Woods Plaza,Rockville,MD,20854,51826,204138
+8893,50Th & Chipman,Lees Summit,MO,64081,24627,86754
+8894,Sheraton Salt Lake City - Lobby,Salt Lake City,UT,84101,6296,50424
+8895,Super Target Littleton St-1776,Littleton,CO,80123,48252,82740
+8896,Super Target Caramel St-1366,Carmel,IN,46032,48673,103875
+8897,"Foothill & Claremont, Claremont",Claremont,CA,91711,34850,96735
+8898,N Andover/Rte 114,North Andover,MA,1845,30086,115516
+8899,Bell Rd - Hickory Hollow,Antioch,TN,37013,87962,58679
+8901,Jefferson & Lake Washington,West Sacramento,CA,95691,38126,74690
+8902,San Pablo & Wall El Cerrito,El Cerrito,CA,94530,25246,104909
+8903,Blanding Blvd. & I-295,Jacksonville,FL,32244,61366,53086
+8904,Beach Blvd & San Pablo Rd,Jacksonville,FL,32224,40547,76604
+8905,Starkey Rd & East Bay Dr,Largo,FL,33771,28760,42658
+8906,Super Target Euless St-1368,Euless,TX,76039,33498,71285
+8907,Broadway & Grand,New York,NY,10013,30050,116590
+8908,Landfall,Wilmington,NC,28403,40990,41397
+8909,Clover Commons,Rochester,NY,14618,21457,90174
+8910,Powder Springs Rd @ Macland,Marietta,GA,30064,48144,91276
+8911,Capital Blvd.,Raleigh,NC,27604,47440,58623
+8912,Newhope & Southpark,Fountain Valley,CA,92708,56522,92425
+8915,Super Target San Antonio St-1354,San Antonio,TX,78258,49403,108190
+8916,Bellevue - Hwy 100,Bellevue,TN,37221,40185,79313
+8918,20Th & Forest - Chico,Chico,CA,95926,38299,50761
+8919,14Th & Sixth,New York,NY,10011,52261,124805
+8920,57Th & Seventh,New York,NY,10019,45141,101167
+8922,I-45 & Sh 105,Conroe,TX,77304,27867,68455
+8923,90Th & First,New York,NY,10128,57429,112446
+8924,Main & Auto Plaza,Green Bay,WI,54302,29779,44984
+8925,Abacoa Plaza,Jupiter,FL,33458,57141,84246
+8927,"Mayfield Road, Cleveland Heights",Cleveland Heights,OH,44118,39693,64652
+8929,Lincoln-27Th & Pine Lake,Lincoln,NE,68516,45023,86375
+8930,Quincy & 71St,Tulsa,OK,74136,29988,44481
+8931,Target Batavia T-839,Batavia,IL,60510,29336,98553
+8933,U Of Akron - Student Union,Akron,OH,44325,0,#N/A
+8935,Carthage College Clausen Center,Kenosha,WI,53140,30931,43309
+8936,Mollie Stone Market-San Mateo,San Mateo,CA,94403,43476,125171
+8937,Super Target Dallas St-1784,Dallas,TX,75231,43132,41599
+8938,Super Target Sugarland St-1786,Sugar Land,TX,77479,93993,135228
+8941,Baywalk,Saint Petersburg,FL,33701,17818,43579
+8942,Safeway-Wash Dc #1276,Washington,DC,20012,14927,98973
+8943,Super Target Sandy St-1752,Sandy,UT,84070,27472,72644
+8944,Safeway-Kirkland #1142,Kirkland,WA,98033,38813,125594
+8946,Williamsburg Marketplace,Williamsburg,VA,23185,46961,82952
+8947,Spring And Varick,New York,NY,10013,30050,116590
+8948,Three Chopt Road,Richmond,VA,23226,16419,88987
+8949,1609 West Dravus,Seattle,WA,98119,25635,92632
+8950,Guilford College,Greensboro,NC,27410,55478,69036
+8951,Super Target Frisco St-1763,Frisco,TX,75034,67582,100765
+8952,Panther Creek & Woodlands Pkwy,The Woodlands,TX,77381,35486,107395
+8953,Vons-La Mesa #2093,La Mesa,CA,91942,41119,68357
+8954,Closter,Closter,NJ,7624,8733,138177
+8956,Mall Of Georgia,Buford,GA,30519,48276,84145
+8958,Alameda & San Fernando,Burbank,CA,91502,11545,50012
+8959,Vons-South Pasadena #2228,South Pasadena,CA,91030,26209,92738
+8960,Garth Rd & West Baker,Baytown,TX,77521,59271,66235
+8962,10Th & Jonquil,Mcallen,TX,78501,65749,38105
+8963,Hwy. 59 & Daniel Mccall,Lufkin,TX,75901,29405,52523
+8965,Memorial & Benignus,Houston,TX,77024,38368,100712
+8966,Mollie Stone - Greenbrae,Greenbrae,CA,94904,12310,138535
+8967,Briarwood Mall,Ann Arbor,MI,48108,27962,70651
+8969,Western & 25Th,San Pedro,CA,90732,21560,91558
+8970,La Brea & San Vicente,Los Angeles,CA,90019,68990,58137
+8971,Kern & N Street - Fresno,Fresno,CA,93721,8069,31732
+8972,Serramonte Center - Daly City,Daly City,CA,94015,64390,96597
+8974,Stonehenge,Raleigh,NC,27613,45773,94760
+8975,Cumberland Mall,Atlanta,GA,30339,28097,82430
+8976,44Th & Lex,New York,NY,10017,16274,118903
+8977,Freedom Road,Cranberry Township,PA,16066,30944,108131
+8978,Jefferson Pointe - Ft. Wayne,Fort Wayne,IN,46804,29087,72497
+8981,Callowhill Street,Philadelphia,PA,19130,27147,65872
+8983,San Jose & St. Augustine,Jacksonville,FL,32257,38250,58018
+8986,Super Target Kissimmee St-1918,Kissimmee,FL,34746,46359,53822
+8987,Super Target West Palm Beach St-19,West Palm Beach,FL,33411,71538,72801
+8988,Target Savannah T-1910,Savannah,GA,31419,55683,57172
+8989,Target-Altoona T-1939,Altoona,IA,50009,19915,83330
+8990,Meridian Rd. & Corporate Dr,Meridian,ID,83642,44813,70784
+8991,Super Target Naperville St-840,Naperville,IL,60540,45026,118541
+8992,Target Chicago South Loop T-1889,Chicago,IL,60605,30147,107087
+8993,Belle Hall,Mount Pleasant,SC,29464,53669,88172
+8994,Tacoma Place,Tacoma,WA,98408,19814,58995
+8995,Monte Vista & Countryside,Turlock,CA,95380,43890,49967
+8997,Gresham Station,Gresham,OR,97030,37672,54271
+8999,Heritage Place,Vancouver,WA,98660,12819,55398
+9000,"Charleston & Rampart, Las Vegas",Las Vegas,NV,89117,54543,61003
+9001,"Ramsey & 22Nd Street, Banning",Banning,CA,92220,33365,46020
+9002,Fry & Kingsland,Houston,TX,77094,10016,128149
+9003,Broaddale,Falls Church,VA,22046,18154,123890
+9004,S John Young Parkway Towne Pl Blvd,Orlando,FL,32837,54119,61465
+9005,Safeway-Greenbelt #107,Greenbelt,MD,20770,24157,79438
+9006,Safeway-Woodinville #533,Woodinville,WA,98072,24436,123273
+9007,S. University & Church,Ann Arbor,MI,48104,41988,63340
+9008,"Brooklyn, Oh",Brooklyn,OH,44144,20072,48331
+9009,Hollywood & Mccadden,Hollywood,CA,90028,35060,50046
+9011,5Th & Church,Nashville,TN,37219,1326,71712
+9012,Ne 139Th & 20Th - Salmon Creek,Vancouver,WA,98686,19385,88089
+9013,E. Bay Street,Charleston,SC,29403,25112,44232
+9014,Park Place - Tucson,Tucson,AZ,85711,41755,39661
+9015,Tributary Point & Hazel - Rc,Rancho Cordova,CA,95670,55969,67099
+9016,Dupont South,Washington,DC,20036,5431,87587
+9020,Douglas & Rocky Ridge,Roseville,CA,95661,31369,86862
+9021,Crow Canyon Rd & Camino Tassajara,Danville,CA,94506,26135,200137
+9022,Lincoln & Minnesota Willow Glen,San Jose,CA,95125,54397,130573
+9023,First Street & Las Positas,Livermore,CA,94551,41607,110178
+9024,3Rd & Wilshire (Barnes & Noble),Santa Monica,CA,90401,8299,79544
+9025,Laurel Village,San Francisco,CA,94118,40666,114075
+9026,Hartz Ave & Prospect,Danville,CA,94526,33588,158496
+9027,Pch & Cross Creek,Malibu,CA,90265,18580,135336
+9028,Platt & Victory,West Hills,CA,91307,25147,116976
+9030,Hastings Ranch,Pasadena,CA,91107,33518,95171
+9031,74 New Montgomery,San Francisco,CA,94105,7292,189241
+9032,Timberhill,Corvallis,OR,97330,42421,57381
+9033,N Beverly & S. Santa Monica Blvd,Beverly Hills,CA,90210,22733,144546
+9034,Main & Hill,Santa Monica,CA,90405,27279,90247
+9035,Larchmont & Beverly,Los Angeles,CA,90004,65627,54393
+9036,525 B Street,San Diego,CA,92101,45314,71068
+9037,Polk Street,San Francisco,CA,94109,58274,93987
+9038,Hamilton Plaza,Campbell,CA,95008,48040,121320
+9039,Super Target Westminster St-1928,Westminster,CO,80021,33470,79122
+9040,Target North Haven T-1916,North Haven,CT,6473,23953,95984
+9042,Target Stamford T-1544,Stamford,CT,6901,8773,78945
+9043,Target Seven Springs T-1967,New Port Richey,FL,34655,41638,65245
+9044,Wickham Rd & I-95,Melbourne,FL,32940,36027,76950
+9045,Sheridan St & Dykes Rd,Town Of Southwest Ranches,FL,33331,24696,109381
+9047,Oregon City,Oregon City,OR,97045,55763,81303
+9048,Multnomah,Portland,OR,97219,41005,97502
+9049,Eugene,Eugene,OR,97401,44682,41557
+9052,Longview/Thriftway,Longview,WA,98632,49357,48320
+9053,Wilderness Village,Maple Valley,WA,98038,35025,108297
+9054,Totem Lake West,Kirkland,WA,98034,51051,104148
+9055,"Sandpoint, Id",Sandpoint,ID,83864,18442,52598
+9056,208Th & Benson/Panther Lk.,Kent,WA,98031,41510,82995
+9058,Novi Rd & W Oaks,Novi,MI,48377,17581,67107
+9059,"Chagrin Falls, North Main Street",Chargrin Falls,OH,44022,16645,112279
+9063,Blue Ash - Kenwood,Blue Ash,OH,45242,22158,92633
+9064,55 E. Jackson,Chicago,IL,60604,891,99358
+9065,"Cedar Road, Cleveland Heights",Cleveland Heights,OH,44106,26905,30879
+9066,Webster & Downer,Milwaukee,WI,53211,35504,65690
+9068,Peachtree Battle,Atlanta,GA,30305,25260,99358
+9069,University Village,Seattle,WA,98105,48158,65955
+9070,University Way,Seattle,WA,98105,48158,65955
+9071,Bear Creek,Redmond,WA,98052,66938,127400
+9072,Pine Street,Seattle,WA,98101,14235,84645
+9073,120Th Ave & Ne 8Th,Bellevue,WA,98005,18533,115510
+9074,Southcenter,Tukwila,WA,98188,23840,59129
+9076,Vancouver Mall,Vancouver,WA,98662,35943,65501
+9078,Northgate,Seattle,WA,98125,42060,73204
+9080,Richmond Beach,Seattle,WA,98177,19468,109727
+9081,Medford (B&N),Medford,OR,97504,47512,60093
+9082,Pioneer Courthouse,Portland,OR,97205,9199,43620
+9084,Clark & Germania Place,Chicago,IL,60610,40340,86562
+9086,Spectrum,Reston,VA,20190,19485,116681
+9087,Wayne,Wayne,PA,19087,33001,133707
+9088,Berkshire Court,Dallas,TX,75225,22549,161718
+9090,Dupont North,Washington,DC,20009,55855,106971
+9091,Cascade Marketplace,Sterling,VA,20165,33946,140394
+9092,"Tropicana & Boulder Hwy, Las Vegas",Las Vegas,NV,89122,53543,51523
+9093,Ann & Camino Al Norte,North Las Vegas,NV,89031,66244,67825
+9094,Eastview Mall,Victor,NY,14564,14893,101485
+9096,I-35 & Centerpoint - Sw Corner,San Marcos,TX,78666,82635,42673
+9098,Promenade On The Peninsula,Rolling Hills,CA,90274,26192,156513
+9099,Bothell Qfc,Bothell,WA,98011,26617,89657
+9104,Harbor & Orangethorpe,Fullerton,CA,92832,25363,68883
+9105,Super Target Watauga St-1765,Watauga,TX,76148,25708,71549
+9106,Supertarget West Plano St-1764 #333,Plano,TX,75093,51114,106631
+9107,Super Target Shawnee St-1759,Shawnee Mission,KS,66217,5671,74166
+9108,Super Target Trussville St-1773,Birmingham,AL,35235,19635,56780
+9110,Safeway-Colorado Springs #1466,Colorado Springs,CO,80909,38311,46864
+9111,Sacramento Con Ctr-13Th St Cafe,Sacramento,CA,95814,11876,44814
+9118,Civica Office Building,Bellevue,WA,98004,36333,129923
+9119,Juan Tabo,Albuquerque,NM,87112,43017,54759
+9120,Target Covington T-1876,Covington,LA,70433,37902,71677
+9121,Target Dorchester T-1898,Boston,MA,2125,35644,60402
+9123,Target Abingdon T-1871,Abingdon,MD,21009,29125,91080
+9124,Galleria At Tyler Mall Floor 2,Riverside,CA,92503,91930,70341
+9126,Lincoln Center - Stockton,Stockton,CA,95207,50634,48345
+9127,N Milpitas Blvd & Town Center Dr,Milpitas,CA,95035,84399,128077
+9128,100 West Portal/Vicente,San Francisco,CA,94127,18649,169794
+9129,Crow Canyon Rd & Crow Canyon Place,San Ramon,CA,94583,35812,149760
+9130,19Th & J Street - Sacramento,Sacramento,CA,95811,7683,44214
+9131,Stevens Creek & Deanza,Cupertino,CA,95014,64098,163754
+9132,Metro Center Foster City,Foster City,CA,94404,37766,147358
+9134,Devargas Center - Santa Fe,Santa Fe,NM,87501,15369,67763
+9135,Muddy Branch,Gaithersburg,MD,20878,68418,122795
+9136,Crystal City,Arlington,VA,22202,27271,113790
+9137,Lynbrook,Lynbrook,NY,11563,22702,97354
+9139,Charlottesville,Charlottesville,VA,22903,42342,61750
+9140,Thayer Street,Providence,RI,2906,28753,81455
+9141,Manhasset,Manhasset,NY,11030,18664,188816
+9142,The Sands (Oceanside),Oceanside,NY,11572,30868,113466
+9143,7700 Maple Street,New Orleans,LA,70118,34696,44438
+9145,Hampden & Happy Canyon,Denver,CO,80222,22625,62246
+9146,Super Target-Durham St-1872,Durham,NC,27707,48636,55794
+9147,Target Farmingdale T-1866,Farmingdale,NY,11735,32665,104537
+9148,607 Brighton Beach Ave,Brooklyn,NY,11235,78502,55413
+9150,Target York West T-1875,York,PA,17408,24489,70216
+9151,Target Simpsonville T-1870,Simpsonville,SC,29680,32852,73568
+9152,Bristol & Memory Lane,Santa Ana,CA,92706,36259,69197
+9153,Challenger Way & East Ave K,Lancaster,CA,93535,74323,50274
+9155,College & Main-Durango,Durango,CO,81301,30372,71881
+9156,I-75 & Barrett Pkwy,Kennesaw,GA,30144,58171,72606
+9157,Touhy & Kostner,Lincolnwood,IL,60712,12473,96430
+9158,66 W. Washington - Daley Plaza,Chicago,IL,60602,1248,96806
+9159,Highland & Franklin,Hollywood,CA,90068,23971,89359
+9160,27 Drumm Street,San Francisco,CA,94111,8762,105048
+9161,Mission St & Gambetta,Daly City,CA,94014,49902,94009
+9162,Harbor & Adams,Costa Mesa,CA,92626,50648,91717
+9164,Ventura & Noble,Sherman Oaks,CA,91403,22410,95832
+9166,Princeton Plaza - San Jose,San Jose,CA,95118,33732,111704
+9168,Winnetka & Ventura,Woodland Hills,CA,91364,26589,102178
+9169,123 Mission Street,San Francisco,CA,94105,7292,189241
+9170,16Th Street & Camelback,Phoenix,AZ,85016,38407,65920
+9173,Scripps Ranch Village,San Diego,CA,92131,36445,136461
+9174,175 West Shaw - Clovis,Clovis,CA,93612,38727,44953
+9177,Broadway & Littleton,Littleton,CO,80120,33203,75764
+9178,Price Cutter-Springfield #51,Springfield,MO,65810,22687,71390
+9179,Quorum,Addison,TX,75240,29888,47134
+9180,Mason & Merrymount,Katy,TX,77450,74432,93250
+9182,Hulen & Bellaire (Ft Worth),Fort Worth,TX,76109,23930,73463
+9187,Davis & Westridge Pkwy,Salinas,CA,93907,22959,78155
+9188,Farmingdale,Farmingdale,NY,11735,32665,104537
+9189,"Artesia & Prairie, Torrance",Torrance,CA,90504,32897,84762
+9190,"Lewis, Neverland Drive",Lewis,OH,43035,29061,120711
+9191,Safeway-Bremerton #1524,Bremerton,WA,98311,26459,79414
+9192,Santana Row,San Jose,CA,95128,35127,90302
+9195,Stockdale Village- Bakersfield,Bakersfield,CA,93309,59750,54313
+9197,Woodinville,Woodinville,WA,98072,24436,123273
+9198,Pinecrest,Alexandria,VA,22312,31311,83851
+9199,Washington Square,Tigard,OR,97223,48840,82778
+9200,Marlborough Route 20,Marlborough,MA,1752,40133,83370
+9202,Target North Fresno T-911,Fresno,CA,93720,47084,84823
+9203,Liberty Place,Washington,DC,20004,1878,127308
+9204,New Canaan,New Canaan,CT,6840,19956,170969
+9205,Westwood & Lindbrook,Los Angeles,CA,90024,52903,67145
+9206,One Penn Plaza,New York,NY,10119,#N/A,#N/A
+9207,Towne Lake Parkway,Woodstock,GA,30189,39014,89553
+9208,Northpoint Mall,Alpharetta,GA,30022,69075,110704
+9209,Mccarthy Ranch,Milpitas,CA,95035,84399,128077
+9211,235 Delaware Ave,Buffalo,NY,14202,3877,47249
+9212,Haynes Bridge Village,Alpharetta,GA,30022,69075,110704
+9213,Decatur Square,Decatur,GA,30030,30868,89191
+9214,Morrocroft Village - Ht,Charlotte,NC,28211,30784,89196
+9216,Watertown - Mt. Auburn,Watertown,MA,2472,35021,98321
+9218,Liberty & Nassau,New York,NY,10005,8982,141370
+9219,Albertsons-Ridgecrest #6331,Ridgecrest,CA,93555,34408,64386
+9220,U.S. 41 @ Acworth,Kennesaw,GA,30152,44049,92712
+9221,Super Target Lafayette St-1473,Lafayette,LA,70508,39566,73471
+9222,Capitol & Mclaughlin,San Jose,CA,95121,38833,105298
+9223,Greentree Road,Pittsburgh,PA,15220,18215,67290
+9224,2040 Cliff Road - Eagan,Eagan,MN,55122,31754,83868
+9225,Great Northern Mall,North Olmsted,OH,44070,31893,66709
+9226,Texas & Jefferson - Fairfield,Fairfield,CA,94533,75542,71779
+9227,Marsh & Florence - Redwood City,Redwood City,CA,94063,37837,71324
+9229,Frank Lloyd Wright & Thompson Peak,Scottsdale,AZ,85260,39709,89226
+9231,50Th & Lex,New York,NY,10022,34150,137866
+9232,"Rainbow & Silverstream, Las Vegas",Las Vegas,NV,89107,38122,47199
+9233,Monona & Broadway,Monona,WI,53716,19894,73521
+9234,Moraga & Bryant,Orinda,CA,94563,20030,195088
+9235,Stl - Baggage Claim 2,St Louis,MO,63145,0,#N/A
+9236,Orchard & Willow,Greenwood Village,CO,80111,32996,101671
+9238,Maine Crossing,South Portland,ME,4106,25834,65820
+9240,Echo Lane & I-10,Houston,TX,77024,38368,100712
+9241,Virginia Square Metro,Arlington,VA,22203,25619,106638
+9242,Damonte Ranch & Virginia - Reno,Reno,NV,89521,32885,89389
+9243,Fred Meyer-Staduim #360,Portland,OR,97209,18873,66380
+9244,Rockwell & Northwest Hwy,Oklahoma City,OK,73132,27829,55902
+9245,Vons-Chula Vista #2071,Chula Vista,CA,91915,32382,107570
+9247,National & Castle Heights,Los Angeles,CA,90034,60380,72908
+9248,Super Target Colorado Springsst1501,Colorado Springs,CO,80922,28976,92054
+9249,Target San Ramon T-949,San Ramon,CA,94583,35812,149760
+9250,Target Norco T-736,Norco,CA,92860,27078,99364
+9251,Sawgrass Mills Mall West,Sunrise,FL,33323,23676,93806
+9252,O'hare Travel Oasis Space K2,Schiller Park,IL,60176,11575,59669
+9253,Belvidere Travel Oasis Space K2,Belvidere,IL,61008,33106,62140
+9255,Rocky Hill,Rocky Hill,CT,6067,20348,81765
+9256,King Soopers-Greenwood Village #96,Greenwood Village,CO,80111,32996,101671
+9258,Austin Ave & Williams Dr,Georgetown,TX,78626,36578,71777
+9259,Via Addison,Delray Beach,FL,33446,27563,60584
+9260,I-10 & George Dieter Dr,El Paso,TX,79936,112038,57442
+9262,Stl - East Terminal,St Louis,MO,63145,0,#N/A
+9265,4Th St. & 9Th Ave.,Saint Petersburg,FL,33701,17818,43579
+9267,75Th & Broadway,New York,NY,10023,64551,129019
+9268,Super Target-Kansas City T-1455,Kansas City,MO,64157,19172,114529
+9269,Custer & Parker,Plano,TX,75075,37264,81633
+9270,Stonestown Galleria,San Francisco,CA,94132,30761,81405
+9271,King Soopers-Greenwood Village #100,Greenwood Village,CO,80111,32996,101671
+9272,Albertsons-Las Vegas #6091,Las Vegas,NV,89142,33185,53368
+9274,Maple & Lahser,Bloomfield Hills,MI,48301,14549,146688
+9275,Stevens Creek & Lawrence,San Jose,CA,95129,39178,145927
+9276,Preston And Warren,Frisco,TX,75034,67582,100765
+9277,Logan & California,Chicago,IL,60647,86126,74664
+9278,Yosemite & Paulson - Merced,Merced,CA,95340,37188,56980
+9279,Safeway-Phoenix #1491,Scottsdale,AZ,85250,16496,74999
+9280,"Scottsdale & Loop 101, Scottsdale",Phoenix,AZ,85054,7457,91778
+9281,Target Brandywine T-1146,Wilmington,DE,19803,21928,102087
+9282,Fruitville Rd & Honore Ave,Sarasota,FL,34232,32125,66264
+9283,King Soopers-Denver #19,Denver,CO,80227,36343,71072
+9284,Kroger-Novi #632,Novi,MI,48374,15827,144869
+9285,U Of S. Ms/Hattisburg -Cook Library,Hattiesburg,MS,39406,1850,9173
+9286,Farmfresh-Williamsburg #321,Williamsburg,VA,23185,46961,82952
+9287,Safeway-Sun City West #1520,Surprise,AZ,85374,41289,60873
+9288,Richmond Pkwy & San Pablo,Richmond,CA,94806,63640,64486
+9289,"54Th St. & Ray Rd., Chandler",Chandler,AZ,85226,39553,87490
+9290,Westheimer & Post Oak,Houston,TX,77056,21974,95502
+9292,"Rosecrans & Oceangate, Hawthorne",Hawthorne,CA,90250,98514,56696
+9294,Wabash Landing,West Lafayette,IN,47906,71634,50537
+9295,1900 W. Montrose,Chicago,IL,60613,48624,84472
+9296,E. Piedmont,Marietta,GA,30062,64558,102354
+9297,Sumner Place,Bethesda,MD,20816,16948,192150
+9298,44Th Street & Indian School,Phoenix,AZ,85018,35704,73103
+9299,Super Target Hurst St-1766 #72,Hurst,TX,76053,30063,60712
+9300,Denton Tap & Sandy Lake Rd.,Coppell,TX,75019,43597,123129
+9302,Levi's Plaza At Sansome,San Francisco,CA,94111,8762,105048
+9303,6738 N. Sheridan - Rodgers Park,Chicago,IL,60626,53372,43860
+9304,Fallbrook & Victory,West Hills,CA,91307,25147,116976
+9305,Albertsons-Phoenix #985,Phoenix,AZ,85032,67284,60417
+9306,Albertsons-Burleson #4279,Burleson,TX,76028,70176,80536
+9307,Albertsons-Las Vegas #6006,Las Vegas,NV,89183,38342,70081
+9310,W. Bryn Mawr & Winthrop - Edgewater,Chicago,IL,60660,43342,51812
+9311,Waikele Premium Outlets,Waipahu,HI,96797,73434,93916
+9312,Target Culver City T-198,Culver City,CA,90230,32676,85122
+9315,Two Atlantic Avenue,Boston,MA,2110,2486,105971
+9317,7Th Street & Thunderbird,Phoenix,AZ,85022,50237,58249
+9318,Stonebrier Mall,Frisco,TX,75034,67582,100765
+9322,Carson St & College Pkwy-Carson Cty,Carson City,NV,89706,20006,47626
+9324,Safeway-Ellicott City #1459,Ellicott City,MD,21043,47668,122150
+9325,Super Target Lakeville St-1484,Lakeville,MN,55044,51499,116106
+9326,King Soopers-Littleton #25,Littleton,CO,80127,45792,111530
+9327,Iliff & Buckley,Aurora,CO,80013,73912,81048
+9328,Safeway-Erie #1667,Erie,CO,80516,25317,118883
+9329,Fred Meyer-Johnson Creek #153,Portland,OR,97266,36180,51428
+9330,Ward Parkway,Kansas City,MO,64114,22291,66640
+9331,Westview,Frederick,MD,21703,35894,82323
+9334,Promenade,Charlotte,NC,28277,66934,108929
+9335,Safeway-Baker City #4381,Baker City,OR,97814,12121,50503
+9337,Safeway-Stockton #2707,Stockton,CA,95207,50634,48345
+9338,"Citadel Outlets, City Of Commerce",City Of Commerce,CA,90040,13437,52624
+9339,Safeway-Salinas #2654,Salinas,CA,93905,64314,50587
+9342,Sonora Crossroads - Sonora,Sonora,CA,95370,26477,61695
+9343,Howe & Fair Oaks - Sacramento,Sacramento,CA,95825,33022,45097
+9344,"Atlantic & Florence, Bell",Bell,CA,90201,103728,46068
+9346,Chicago & Main,Evanston,IL,60202,32071,80202
+9347,Spring Street At Crosby St,New York,NY,10012,24856,108294
+9349,Moses Lake,Moses Lake,WA,98837,42354,58999
+9350,Oak Grove & Treat,Concord,CA,94518,28631,91754
+9351,41St & Madison,New York,NY,10017,16274,118903
+9352,Redhill & El Camino Real,Tustin,CA,92780,58088,72716
+9353,Sunset & Gower,Los Angeles,CA,90028,35060,50046
+9355,Bake & Trabuco,Lake Forest,CA,92630,67524,94403
+9356,Brookhurst & Edinger,Fountain Valley,CA,92708,56522,92425
+9357,Elmwood Avenue,Buffalo,NY,14222,11749,59715
+9358,800 State Street,Santa Barbara,CA,93101,32577,62661
+9359,Dupont Circle,Washington,DC,20036,5431,87587
+9361,Pentagon Centre,Arlington,VA,22202,27271,113790
+9362,1849 Green Bay Rd-Renaissance Place,Highland Park,IL,60035,30514,140649
+9363,5185 Macarthur Blvd.,Washington,DC,20016,34664,136272
+9364,12Th And P,Lincoln,NE,68508,15013,25666
+9365,"Atlantic City, The Walk",Atlantic City,NJ,8401,38888,28510
+9367,Rio Hotel & Casino Star Deli,Las Vegas,NV,89103,49716,46162
+9368,Harrahs Laughlin Club Cappucino,Laughlin,NV,89029,9939,38987
+9370,"Brunswick, Center Road",Brunswick,OH,44212,44595,74013
+9372,Safeway-Morgan Hill #1455,Morgan Hill,CA,95037,51872,118952
+9373,Safeway-Albany #1659,Albany,OR,97322,35411,55317
+9374,Safeway-Aurora #1933,Centennial,CO,80015,70497,98464
+9377,Safeway-Fountain #1975,Fountain,CO,80817,29608,68070
+9379,Forest Lake,Forest Lake,MN,55025,24914,84561
+9380,"Roseville & Sunrise, Roseville",Roseville,CA,95661,31369,86862
+9381,Safeway - Flagstaff #2028,Flagstaff,AZ,86001,30477,51990
+9383,Caughlin & Mccarran - Reno,Reno,NV,89519,8525,104242
+9385,Albertsons-Calabasas #6335,Calabasas,CA,91302,27566,124015
+9386,Super Target Lewisville St-1395,Lewisville,TX,75057,14672,58354
+9390,Albertsons-Glendale #941,Glendale,AZ,85304,26610,67536
+9392,Randall's - Katy #3070,Katy,TX,77450,74432,93250
+9393,Kroger-Atlanta #350,Atlanta,GA,30342,33904,86498
+9394,West County Mall - Floor 1 South,Des Peres,MO,63131,16898,141773
+9395,"East Northport, Rte. 25",East Northport,NY,11731,30271,115212
+9396,"Lemoore & Cinnamon, Lemoore",Lemoore,CA,93245,38556,59033
+9397,Vons-Hacienda Heights #3086,Hacienda Heights,CA,91745,54936,85909
+9398,Vons-Los Angeles #2077,Los Angeles,CA,90034,60380,72908
+9399,12519 N. Division,Spokane,WA,99218,14214,55248
+9400,Vons - Santa Ana #1626,Santa Ana,CA,92704,92070,70148
+9401,Vons-Burbank #3083,Burbank,CA,91505,30279,86933
+9402,Vons-Agoura Hills #2001,Agoura Hills,CA,91301,26357,114897
+9403,Safeway - Windsor #1434,Windsor,CA,95492,29250,97617
+9404,Safeway - San Francisco #667,San Francisco,CA,94131,28595,135507
+9405,Target Hemet T-761,Hemet,CA,92545,43377,49697
+9406,Safeway - Newark #1224,Newark,CA,94560,45905,105975
+9407,Vons-Huntington Beach #2090,Huntington Beach,CA,92649,34487,97570
+9409,Follett - Westbrook Corp Center,Westchester,IL,60154,16308,79663
+9410,Target Evanston T-927,Evanston,IL,60202,32071,80202
+9411,Martins-Elkhart #17,Elkhart,IN,46514,41263,55244
+9412,Target Charlotte T-1087,Charlotte,NC,28277,66934,108929
+9413,Kroger-Lancaster #931,Lancaster,OH,43130,61509,55191
+9414,Safeway - Florence #363,Florence,OR,97439,14797,44075
+9415,Safeway - Arlington #534,Arlington,WA,98223,44316,83327
+9416,Safeway-Yakima #502,Yakima,WA,98908,35967,67669
+9417,Parmer & Mcneil,Austin,TX,78729,30563,75374
+9418,Grand & Linden,South San Francisco,CA,94080,68239,99877
+9419,Lakeville & Mcdowell,Petaluma,CA,94954,39410,96077
+9420,Sand Hill & Sharon Park,Menlo Park,CA,94025,44043,151492
+9421,1St St & Central Ave,Sarasota,FL,34236,13118,58085
+9422,College & Winkler,Fort Myers,FL,33919,29904,59819
+9424,S Conway Rd & Hoffner Ave,Belle Isle,FL,32812,33376,51478
+9425,3801 Us Hwy 98,Lakeland,FL,33809,29471,56800
+9426,Oglethorpe Mall,Savannah,GA,31406,36824,54198
+9427,Eagles Landing Pkwy & Medical Blvd,Stockbridge,GA,30281,69838,62255
+9429,Orland Park-179Th & Wolf,Orland Park,IL,60467,25586,99258
+9430,Burbank-79Th & Harlem,Burbank,IL,60459,28449,62555
+9431,New Lenox-Rte. 30 & Joliet Hwy,New Lenox,IL,60451,35922,106156
+9432,32Nd & Western,Marion,IN,46953,23218,36445
+9436,Nolan Town Center- Redmond,Redmond,OR,97756,38030,61402
+9437,I-10 And Airway,El Paso,TX,79925,39427,51228
+9438,University Dr & Carroll Blvd,Denton,TX,76201,27990,35626
+9439,Battlefield & Volvo,Chesapeake,VA,23320,58670,76127
+9440,Mt. Vernon Plaza,Alexandria,VA,22306,32718,79515
+9441,Harris Teeter-Virginia Beach #239,Virginia Beach,VA,23456,57772,99424
+9442,Century & Frank Lloyd Wright,Middleton,WI,53562,25462,85692
+9443,Safeway-Surprise #1997,Surprise,AZ,85374,41289,60873
+9444,Safeway - Mesa #1567,Mesa,AZ,85213,32537,73405
+9445,Safeway-Mesa #2644,Mesa,AZ,85215,16057,75758

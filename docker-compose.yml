@@ -1,0 +1,16 @@
+version: '2.1'
+services:
+  app:
+    build:
+      context: ./MapCore
+      dockerfile: Dockerfile
+    expose:
+      - "5000"
+  reverseproxy:
+    build:
+      context: ./reverseproxy
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    links :
+      - app

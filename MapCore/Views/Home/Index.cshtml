@@ -1,0 +1,238 @@
+﻿@{
+    Layout = null;
+}
+
+@model MapCore.Models.ToolConfig
+
+<!DOCTYPE html>
+<html id="abc">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#C8102E">
+    <title>
+        @Model.DisplayName
+    </title>
+    <link href="/lib/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/lib/css/selectize.bootstrap3.css" rel="stylesheet" />
+    <link href="/lib/dag_modules/map/map.css" rel="stylesheet" />
+    @*<link href="/lib/css/jquery-ui.css" rel="stylesheet" />*@
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" />
+    <link href="/css/Style.css" rel="stylesheet" />
+    @*<link href="/css/National.css" rel="stylesheet" />*@
+</head>
+<body>
+    <div class="app-main top">
+        @*<div class="loading" ng-show="showSpinner">Loading&#8230;</div>*@
+        @if (Model.ShowBanner)
+        {
+            <div class="ab-navbar">
+                <header id="cso-header">
+                    <div class="title container-fluid">
+                        <div class="expanded container-fluid">
+                            <div class="cso-col">
+                                <a class="application-title" ng-cloak>@Model.DisplayName</a>
+                            </div>
+                            <div class="cso-col hidden-sm-down"></div>
+                        </div>
+                    </div>
+                    <div class="divider"></div>
+                </header>
+            </div>
+        }
+
+        <div class="intro-panel d-flex mx-2 py-1">
+            <div class="intro-menu ml-auto" style="margin-bottom:0px;height:auto" ng-show="showFilters || is_trend  || mapAdminFlag">
+
+                @*Filter/Trend Dropdown*@
+                @if (Model.Filter != null && Model.Filter.Options != null && Model.Filter.Options.Length > 0)
+                {
+                    <div id="navFilterDdl" class="btn-group btn-group-sm">
+                        <button type="button" class="btn btn-default mr-1 dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ng-show="is_trend">
+                            @foreach (var filter in Model.Filter.Options)
+                            {
+                                @if (filter.Id == Model.DefaultFilterId)
+                                {
+                                    <span class="navFilterDdlLabel">@filter.Name</span><span class="caret"></span>
+                                }
+                            }
+                            @*<span class="navFilterDdlLabel">@Model.Filter.Options.Last().Name</span><span class="caret"></span>*@
+                        </button>
+                        <div class="dropdown-menu">
+                            @foreach (var filter in Model.Filter.Options)
+                            {
+                                <button class="dropdown-item" data-id="@filter.Id" data-name="@filter.Name">
+                                    @filter.Name
+                                </button>
+                            }
+                        </div>
+                    </div>
+                }
+                @if (Model.ShowDataDownloadButton)
+                {
+                    <button id="navDownloadData" class="btn btn-default btn-sm">Download National Map Data</button>
+                }
+
+                @if (Model.RelatedResources != null && Model.RelatedResources.Length > 0)
+                {
+                    <span class="dropdown">
+                        <button class="btn btn-default btn-sm dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Related Tools
+                        </button>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
+                            @foreach (var res in Model.RelatedResources)
+                            {
+                                <a class="dropdown-item" href="@res.Url" target="_blank">@res.Title</a>
+                            }
+                        </div>
+                    </span>
+                }
+            </div>
+        </div>
+        @if (!string.IsNullOrEmpty(Model.IntroText) && !Model.IsEmbedded)
+        {
+            <div class="alert alert-secondary mx-2 p-2 mb-1">
+
+                <div class="intro-text flex-1">
+                    @Html.Raw(@Model.IntroText)
+                </div>
+                
+            </div>
+        }
+            <div class="map-main position-relative">
+                <div id="map_canvas"></div>
+
+                <div id="info" class="card" style="display:none;">
+                    <div class='card-body p-1' ng-repeat="item in attributeList" ng-cloak style="width:370px">
+                        <table class='table table-bordered table-condensed table-hover table-striped' style="margin-bottom:-1px">
+                            <tr style='padding:0px;background-color:#cdcdcd;line-height:0.5rem'>
+                                <td colspan="3">
+                                    <div class='panel-heading' style='padding:0px;background-color:#cdcdcd'>
+                                        <h4 class='panel-title' style="font-size:12px;line-height:0.2">
+                                            <b>{{item.info_box_tab_desc}}</b>
+                                            <span ng-if="item.info_box_popover_desc != null">
+                                                {{attribute_description}}
+                                                <a ng-href="" href="" target="_blank" role="button" class="popoverInfo" data-html="true" ab-popover tabindex="0" data-toggle="click" data-placement="left" data-trigger="focus" data-content={{item.info_box_popover_desc}}><i class="fa fa-info-circle"></i></a>
+                                            </span>
+                                        </h4>
+
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr ng-repeat="item1 in item.attributes" ng-cloak style="line-height:0.7rem">
+                                <td id={{item1.attribute_id}} ng-if="656 != 761" style="padding:0.5rem">
+                                    {{item1.attribute_display_name}}
+                                    <span ng-hide="!item1.attribute_desc">
+                                        <a target="_blank" data-html="true" class="popoverInfo" ab-popover tabindex="0" data-toggle="click" data-placement="left" data-trigger="focus" data-content={{item1.attribute_desc}}>
+                                            <i class="fa fa-info-circle"></i>
+                                        </a>
+                                    </span>
+                                </td>
+                                <td style="padding:0.5rem" id={{item1.attribute_id}} ng-if="656 == 761">
+                                    <b ng-if="item1.attribute_id == 11 || item1.attribute_id == 13 || item1.attribute_id == 15 || item1.attribute_id == 17 || item1.attribute_id == 19 || item1.attribute_id == 21 || item1.attribute_id == 23 || item1.attribute_id == 25">{{item1.attribute_display_name}}</b>
+                                    <span ng-hide="item1.attribute_id == 11 || item1.attribute_id == 13 || item1.attribute_id == 15 || item1.attribute_id == 17 || item1.attribute_id == 19 || item1.attribute_id == 21 || item1.attribute_id == 23 || item1.attribute_id == 25">{{item1.attribute_display_name}}</span>
+                                    <span ng-hide="!item1.attribute_desc">
+                                        <a target="_blank" data-html="true" class="popoverInfo" ab-popover tabindex="0" data-toggle="click" data-placement="left" data-trigger="focus" data-content={{item1.attribute_desc}}>
+                                            <i class="fa fa-info-circle"></i>
+                                        </a>
+                                    </span>
+                                </td>
+                                <td style="padding:0.5rem" ng-if="item1.attribute_id == 2" style='width:170px;word-wrap:break-word'>{{item1.attribute_display_value}}</td>
+                                <td style="padding:0.5rem" ng-if="item1.attribute_id != 2 && item1.attribute_display_value != '99999.00%' && item1.abNegative" style="padding:3px">
+                                    <span class="ab-negative">
+                                        <span ng-if="item1.less_than_11_check == 1">Less than 11</span>
+                                        <span ng-if="item1.less_than_11_check != 1">{{item1.attribute_display_value}}</span>
+                                    </span>
+                                </td>
+                                <td style="padding:0.5rem" ng-if="item1.attribute_id != 2 && item1.attribute_display_value != '99999.00%' && !item1.abNegative && item1.attribute_display_value != 'No Data'">
+                                    <span ng-if="item1.less_than_11_check != 1">{{item1.attribute_display_value}}</span>
+                                    <span ng-if="item1.less_than_11_check == 1">Less than 11</span>
+
+                                </td>
+                                <td style="padding:0.5rem" ng-if="item1.attribute_id != 2 && (item1.attribute_display_value == '99999.00%' || item1.attribute_display_value == 'No Data')">No Data</td>
+                                <td style="width:1px;padding:3px" ng-show="!chartForMapExists"></td>
+                                <td style="width:1px;padding:3px" ng-show="chartForMapExists">
+                                    <span ng-if="item1.has_chart != 0">
+                                        <a href="" ng-click="GetChart(item1)"><i class="fa fa-line-chart"></i></a>
+                                    </span>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <p class="h6" style="width:270px;word-wrap:break-word;padding-left:6px;margin-top:12px" ng-show="info_footer_text"> {{info_footer_text}}</p>
+                </div>
+
+                <div id="legend" class="position-absolute">
+                    <button class="slideLegendButton">Legend</button>
+                    <div class="legend-panel p-3">
+                        <h3 class="panel-title font-weight-bold">@Model.Legend.Header</h3>
+                        <table class="table table-bordered table-sm table-striped mb-0">
+                            <tbody>
+                                @foreach (var range in Model.Legend.Ranges)
+                                {
+                                    <tr class="legend-row">
+                                        <td class="text-center">
+                                            <img class="legend-item-img align-middle" src="@range.IconUrl" />
+                                        </td>
+                                        <td>@range.DisplayText</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                        @if (!string.IsNullOrEmpty(@Model.Legend.Footer))
+                        {
+                            <p class="h6" style="width:@(Model.LegendFooterWidth)px;word-wrap:break-word">@Model.Legend.Footer</p>
+                        }
+                    </div>
+                </div>
+
+                <div id="search-prov">
+                    <select id="search-prov-ddl" class="demo-default" placeholder="Search for a provider...">
+                    </select>
+                </div>
+            </div>
+        </div>
+
+    <div id="chart-modal" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="chart-modal-spinner ab-spinner"></div>
+                    <div id="chart-modal-chart" class="chart-modal-chart"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js"
+            integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg="
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.14/lodash.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=geometry&region=us&key=AIzaSyBms_o6pPvGiHM9fgsz5JwxjuZPZY51qB8"></script>
+    <script src="/lib/js/markerwithlabel.js"></script>
+    <script src="/lib/js/selectize.min.js"></script>
+    <script src="/lib/dag_modules/map/map.js"></script>
+    <script src="/lib/js/highcharts.js"></script>
+    <script src="/lib/js/DagHighchartsConf.js"></script>
+    <script src="/js/markerclusterer.js"></script>
+    <script src="@Url.ContentVersioned("/js/main.js")"></script>
+    <script src="/js/dataValuesFormatter.js"></script>
+
+    <script type="text/javascript">
+        var DAG = DAG || {};
+        DAG.Config = @Html.Raw(Model.ToJson());
+    </script>
+
+</body>
+</html>
+
